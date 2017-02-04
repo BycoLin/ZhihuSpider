@@ -1,0 +1,638 @@
+<div class="explore-feed feed-item" data-offset="26">
+<h2><a class="question_link" href="/question/55274092/answer/144119934" target="_blank" data-id="14329648" data-za-element-name="Title">
+如何评价科学家在中国陕西发现最早人类祖先化石Saccorhytus？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53178671"
+data-atoken="144119934"
+data-collapsed="0"
+data-created="1486081232"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/55274092/answer/144119934">
+<meta itemprop="answer-id" content="53178671">
+<meta itemprop="answer-url-token" content="144119934">
+<a class="zg-anchor-hidden" name="answer-53178671"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>56</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">56</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$hahaapple"
+target="_blank" href="/people/hahaapple"
+>老牛头</a><span class="icon icon-badge-best_answerer icon-badge" data-tooltip="s$b$优秀回答者"></span></span><span class="badge-summary"><a href="/people/hahaapple#hilightbadge" target="_blank">古生物学话题优秀回答者</a></span>
+
+
+
+<span title="地质学/古生物学" class="bio">
+地质学/古生物学
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="56">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">56</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="14329648" data-action="/answer/content" data-author-name="老牛头" data-entry-url="/question/55274092/answer/144119934">
+
+<textarea hidden class="content">我直接贴个化石网的报道吧。&lt;a href=&quot;//link.zhihu.com/?target=http%3A//www.uua.cn/show-10-7873-1.html&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;uua.cn/show-10-7873-1.h&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;tml&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;（化石网报道）据西北大学（李琛）：伦敦当地时间1月30日16时（北京时间1月31日0时）在线提前出版的英国《自然》杂志（Nature），以封面亮点文章的形式，发表了西北大学早期生命研究团队和剑桥大学、中国地质大学（北京）等单位合作研究的重要成果——《陕西寒武纪最早期的微型后口动物》。西北大学地质学系韩健研究员等在陕西南部宽川铺生物群中微型动物化石的研究中，发现了&lt;b&gt;最古老的原始后口动物——冠状皱囊动物&lt;/b&gt;。这种成体仅1毫米的微型动物，被认为代表着显生宙最早期的微型人类远祖至亲。这一发现，将对人类早期祖先的认知，由距今5.2亿年前推至5.35亿年前（十分接近显生宙起点），其体积则也由“厘米级”推至“毫米级”。&lt;br&gt;&lt;br&gt;“如果将澄江动物群中的后口动物大爆发比作一挂鞭炮燃起的话，此次 ‘皱囊动物’的发现，相当于找到了这挂鞭炮的引线。”论文的通讯作者舒德干院士这样评价该成果。&lt;br&gt;&lt;br&gt;科学界已有共识，地球上所有动物共同构成了在亲缘上彼此关联的动物界或动物谱系树。动物界中数以亿计的古今成员依其谱系演化关系可以归并为基础动物、原口动物、后口动物三个亚界。其中，人类是后口动物亚界的一员，其起源演化受到学术界特别关注。&lt;br&gt;&lt;br&gt;多年来，韩健研究小组运用酸蚀法、显微电镜、显微CT等技术对距今5.35亿年的陕南宽川铺生物群中微型动物化石进行深入研究，发现了毫米级的原始后口动物——冠状皱囊动物。这种动物呈椭球形，成体大小约1毫米左右，腹面具有可伸缩的环状口部，表面有4对体锥，却无尾部和肛门。最重要的是，它出现了被认为是鳃裂构造雏型的成对排水鳃孔。所有特征显示，这种最古老、最原始的后口动物，很可能就是科学界期盼已久的后口动物亚界的一个根，对深入探讨两侧对称动物的躯体构型起源具有重大意义。&lt;br&gt;&lt;br&gt;正如本期《自然》杂志封面推介说明，后口动物亚界中的皱囊动物与人类远祖密切相关：面对“我是谁，我从哪里来”这一经典人文命题，所有宗教流派皆不能给出真实可信的答案；唯有科学，尤其是进化生物学正在以详实的可靠证据不断接近真理，逼近历史真实。&lt;br&gt;&lt;br&gt;“数百万年来，人类近祖从古猿进化到现代人类，在基因组和形态学仅仅经历了一些小修小补的改良，而人类远祖在进化上的里程碑式创新则主要发生在5亿多年前的寒武纪大爆发。5.2亿年前，澄江动物群中的‘天下第一鱼——昆明鱼目’代表着刚刚创造出头脑和原始脊椎的‘宏型’人类祖先；而5.35亿年前的皱囊动物应该与创造雏形鳃裂的微型人类远祖亲密相关。”舒德干说。&lt;br&gt;&lt;br&gt;借助生物学和古生物学信息构建动物谱系树并探寻其起源，是理清人类远古祖先演化脉络的前提。由西北大学地质学系舒德干院士领军的早期生命研究团队经过多年来对云南澄江生物群的研究，在国际上首次揭示出脊椎动物、头索动物、尾索动物、棘皮动物、古虫动物等后口动物亚界几乎所有门类的原始代表，进而首次构建了完整的早期动物树框架图，并提出三幕式寒武纪大爆发依次形成三个动物亚界的新假说，​为人类探索早期远祖的来龙去脉提供了基础证据。自1996年起，该团队先后在《自然》《科学》杂志上连续发表了13篇研究论文，其中《中国发现具有“节肢”的早寒武世叶足动物》成果在《自然》杂志2011年2月24日以封面论文形式发表。另有3篇以《自然》Article长文形式发表。其中2项成果获得中国十大科技进展，2项成果获得中国高校十大科技进展。团队先后于2003年、2016年获得国家自然科学一等奖、二等奖。团队先后于2003年、2016年获得国家自然科学一等奖、二等奖。&lt;br&gt;&lt;br&gt;此次在陕南宽川铺生物群微型动物化石的研究发现，开启了毫米级微型后口动物始祖研究的新篇章。&lt;br&gt;&lt;br&gt;目前该论文为《自然》杂志在线提前面世，该期杂志纸质印刷本将于2月9日正式出版。&lt;br&gt;&lt;br&gt;另外这个报道也可以看一下，就是题目里所引用的文章来源：&lt;br&gt;&lt;a href=&quot;//link.zhihu.com/?target=http%3A//finance.ifeng.com/a/20170131/15172845_0.shtml%3F_share%3Dweixin&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;http://finance.ifeng.com/a/20170131/15172845_0.shtml&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;不过要注意这个化石出现的时间是5.35亿年，而不是4.5亿年。&lt;br&gt;至于为什么说最古老的人类祖先化石，确实有点搞个大新闻的意思，因为人类是后口动物，人类的最原始的后口动物祖先也是人类的祖先，这个化石的重要性也在于它是现在确切的最原始的后口动物化石，但人类并不一定是由这种后口动物进化而来的，这种原始的后口动物很可能是人类的后口动物祖先的远亲，但是通过远亲的面貌也许我们也可以对我们远祖的面貌略知一二。&lt;br&gt;&lt;img data-rawwidth=&quot;700&quot; data-rawheight=&quot;459&quot; src=&quot;https://pic2.zhimg.com/v2-abd287b05b78e56778075edf23ad06f1_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;700&quot; data-original=&quot;https://pic2.zhimg.com/v2-abd287b05b78e56778075edf23ad06f1_r.jpg&quot;&gt;&lt;br&gt;冠状皱囊动物腹面和侧面&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;700&quot; data-rawheight=&quot;677&quot; src=&quot;https://pic2.zhimg.com/v2-ee0b4b6f08a1a9561968b71fc20c7295_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;700&quot; data-original=&quot;https://pic2.zhimg.com/v2-ee0b4b6f08a1a9561968b71fc20c7295_r.jpg&quot;&gt;&lt;br&gt;皱囊动物演化树&lt;br&gt;&lt;img data-rawwidth=&quot;624&quot; data-rawheight=&quot;351&quot; src=&quot;https://pic2.zhimg.com/v2-2db2448ad121814330f5f87b1e4a1165_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;624&quot; data-original=&quot;https://pic2.zhimg.com/v2-2db2448ad121814330f5f87b1e4a1165_r.jpg&quot;&gt;&lt;br&gt;扫描电镜下的化石</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img data-rawwidth="700" data-rawheight="459" src="https://pic2.zhimg.com/v2-abd287b05b78e56778075edf23ad06f1_200x112.jpg" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-abd287b05b78e56778075edf23ad06f1_r.jpg">
+我直接贴个化石网的报道吧。<a href="//link.zhihu.com/?target=http%3A//www.uua.cn/show-10-7873-1.html" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">uua.cn/show-10-7873-1.h</span><span class="invisible">tml</span><span class="ellipsis"></span><i class="icon-external"></i></a> （化石网报道）据西北大学（李琛）：伦敦当地时间1月30日16时（北京时间1月31日0时）在线提前出版的英国《自然》杂志（Nature），以封面亮点文章的形式，发表了西北大学早期生命研究团队…
+
+<a href="/question/55274092/answer/144119934" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 08:20" target="_blank" href="/question/55274092/answer/144119934">编辑于 昨天 08:44</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-14329648"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>8 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="27">
+<h2><a class="question_link" href="/question/47323562/answer/144127247" target="_blank" data-id="11143765" data-za-element-name="Title">
+你们的男朋友都给你们拍过哪些好看的照片/骗？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53181584"
+data-atoken="144127247"
+data-collapsed="0"
+data-created="1486085447"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47323562/answer/144127247">
+<meta itemprop="answer-id" content="53181584">
+<meta itemprop="answer-url-token" content="144127247">
+<a class="zg-anchor-hidden" name="answer-53181584"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>430</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">430</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$zhang-han-33-88"
+target="_blank" href="/people/zhang-han-33-88"
+>张函</a></span><span title="现实生活里的一条土狗！职业摄影师、婚礼摄影摄像师。吹萨克斯风的伪艺术家。" class="bio">
+现实生活里的一条土狗！职业摄影师、婚礼…
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="430">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">430</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11143765" data-action="/answer/content" data-author-name="张函" data-entry-url="/question/47323562/answer/144127247">
+
+<textarea hidden class="content">感谢大家厚爱，那么多的赞，和好评。&lt;br&gt;其实鄙人只是一个五线小城市的小摄影师傅，依然在不断的学习中，感谢大家抬爱。&lt;br&gt;&lt;br&gt;------------------------------------------------------------------------------------------&lt;br&gt;&lt;br&gt;征得女友同意，来答一波，在知乎的第一次正儿八经的回答。&lt;br&gt;&lt;br&gt;2016年带女友去了很多地方，每次的主题都是拍照。待我娓娓道来。&lt;br&gt;&lt;br&gt;先随意上几张杂的，实在是拍过非常非常多，手机答的，就选一些手机里有的了。&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;3840&quot; data-rawheight=&quot;5760&quot; src=&quot;https://pic2.zhimg.com/v2-46bc339d69cb17ebaf55d067b2faf6e9_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3840&quot; data-original=&quot;https://pic2.zhimg.com/v2-46bc339d69cb17ebaf55d067b2faf6e9_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5760&quot; data-rawheight=&quot;2958&quot; src=&quot;https://pic4.zhimg.com/v2-b645fa8746d79daffdbd549e8ade461b_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5760&quot; data-original=&quot;https://pic4.zhimg.com/v2-b645fa8746d79daffdbd549e8ade461b_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5760&quot; data-rawheight=&quot;3840&quot; src=&quot;https://pic3.zhimg.com/v2-14e24cc8be6c0d7d58ec3bf50f13df6a_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5760&quot; data-original=&quot;https://pic3.zhimg.com/v2-14e24cc8be6c0d7d58ec3bf50f13df6a_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5760&quot; data-rawheight=&quot;3840&quot; src=&quot;https://pic3.zhimg.com/v2-20cde5ffb0ddf0986b934f76b956d28e_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5760&quot; data-original=&quot;https://pic3.zhimg.com/v2-20cde5ffb0ddf0986b934f76b956d28e_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5760&quot; data-rawheight=&quot;3840&quot; src=&quot;https://pic2.zhimg.com/v2-2633c52e83ce20ef8e91017f003f91f5_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5760&quot; data-original=&quot;https://pic2.zhimg.com/v2-2633c52e83ce20ef8e91017f003f91f5_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;3840&quot; data-rawheight=&quot;5760&quot; src=&quot;https://pic3.zhimg.com/v2-237fe6689169a572c86554b6a309309e_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3840&quot; data-original=&quot;https://pic3.zhimg.com/v2-237fe6689169a572c86554b6a309309e_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;6048&quot; data-rawheight=&quot;4031&quot; src=&quot;https://pic1.zhimg.com/v2-b7389507ccfa3c325607bc043252e1a8_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;6048&quot; data-original=&quot;https://pic1.zhimg.com/v2-b7389507ccfa3c325607bc043252e1a8_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2016年5月·越南-河内·芽庄·大叻&lt;/b&gt;&lt;br&gt;（这一次是纯玩旅行走，我只带了一台a7s+35 2.8 定焦头，拍摄纪实为主，比较随意，后面就有全副武装干的活了）&lt;br&gt;&lt;br&gt;&lt;b&gt;我和女友去的时候随手拍的视频记录&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;//link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/UgVnTRp9GrY-8bbDoxtGHQ&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;mp.weixin.qq.com/s/UgVn&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;TRp9GrY-8bbDoxtGHQ&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;带客人去旅拍的MV（内含旅拍客片）&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;//link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/ERoYsiQosexQvEV4RKvuJQ&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;mp.weixin.qq.com/s/ERoY&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;siQosexQvEV4RKvuJQ&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;4240&quot; data-rawheight=&quot;2384&quot; src=&quot;https://pic4.zhimg.com/v2-ed021e6646debce2106c6da9ac6897c7_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;4240&quot; data-original=&quot;https://pic4.zhimg.com/v2-ed021e6646debce2106c6da9ac6897c7_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;4240&quot; data-rawheight=&quot;2384&quot; src=&quot;https://pic3.zhimg.com/v2-59f31b7aa710a1d7e2c9a0b1f8ad7c22_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;4240&quot; data-original=&quot;https://pic3.zhimg.com/v2-59f31b7aa710a1d7e2c9a0b1f8ad7c22_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;2384&quot; data-rawheight=&quot;4240&quot; src=&quot;https://pic4.zhimg.com/v2-6787d4d72e67c7a1a70e10eadeffa397_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2384&quot; data-original=&quot;https://pic4.zhimg.com/v2-6787d4d72e67c7a1a70e10eadeffa397_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;5869&quot; src=&quot;https://pic4.zhimg.com/v2-509c757174be7184f5b64a3b4b74a637_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic4.zhimg.com/v2-509c757174be7184f5b64a3b4b74a637_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1780&quot; src=&quot;https://pic3.zhimg.com/v2-b7f58db5b6a86b4299255b5befb47306_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/v2-b7f58db5b6a86b4299255b5befb47306_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1780&quot; src=&quot;https://pic1.zhimg.com/v2-ab54441933e41062c68c8f0733d87fec_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic1.zhimg.com/v2-ab54441933e41062c68c8f0733d87fec_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1080&quot; src=&quot;https://pic2.zhimg.com/v2-d58ca1d4a062688752f25b6d18552ec1_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic2.zhimg.com/v2-d58ca1d4a062688752f25b6d18552ec1_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1080&quot; src=&quot;https://pic1.zhimg.com/v2-60a319e9db6aecd43f744d795df9d1f0_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic1.zhimg.com/v2-60a319e9db6aecd43f744d795df9d1f0_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2016年10月·韩国济州岛&lt;/b&gt;&lt;br&gt;这次因为是带客人去旅拍，所以装备很齐全了&lt;br&gt;&lt;br&gt;&lt;b&gt;韩国旅拍MV（内含这次韩国拍的客片）&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;//link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/2zE5sloR5o6peTiRxgtnpQ&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;mp.weixin.qq.com/s/2zE5&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;sloR5o6peTiRxgtnpQ&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;4006&quot; data-rawheight=&quot;5714&quot; src=&quot;https://pic1.zhimg.com/v2-20cf81e7c9dc7566d0846b3d292741e4_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;4006&quot; data-original=&quot;https://pic1.zhimg.com/v2-20cf81e7c9dc7566d0846b3d292741e4_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5714&quot; data-rawheight=&quot;4006&quot; src=&quot;https://pic4.zhimg.com/v2-ee2b2505a19852d602d87875edc6bcab_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5714&quot; data-original=&quot;https://pic4.zhimg.com/v2-ee2b2505a19852d602d87875edc6bcab_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5760&quot; data-rawheight=&quot;3840&quot; src=&quot;https://pic2.zhimg.com/v2-b0e53d9ce350b04ed31b970dde502d19_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5760&quot; data-original=&quot;https://pic2.zhimg.com/v2-b0e53d9ce350b04ed31b970dde502d19_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2016年11月·香格里拉·梅里雪山·白马雪山&lt;/b&gt;&lt;br&gt;这一行就专门是为了她拍摄而去的&lt;br&gt;带了公司7个兄弟，全套设备，照片视频一起上。4200海拔，零下五度，黑婚纱。&lt;br&gt;&lt;br&gt;&lt;b&gt;拍摄全程MV&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;//link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/_gy-OgE-Ni7jBMC72Q3qYA&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;mp.weixin.qq.com/s/_gy-&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;OgE-Ni7jBMC72Q3qYA&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5587&quot; data-rawheight=&quot;3724&quot; src=&quot;https://pic1.zhimg.com/v2-1149f135bde96dff2619b711392f4198_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5587&quot; data-original=&quot;https://pic1.zhimg.com/v2-1149f135bde96dff2619b711392f4198_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;3840&quot; data-rawheight=&quot;5760&quot; src=&quot;https://pic1.zhimg.com/v2-8c8c5c740a624c1c71721f13d0fb02d8_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3840&quot; data-original=&quot;https://pic1.zhimg.com/v2-8c8c5c740a624c1c71721f13d0fb02d8_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5123&quot; data-rawheight=&quot;3415&quot; src=&quot;https://pic2.zhimg.com/v2-e2c67c1cb987f74d36acd62a43c920c1_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5123&quot; data-original=&quot;https://pic2.zhimg.com/v2-e2c67c1cb987f74d36acd62a43c920c1_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5760&quot; data-rawheight=&quot;3840&quot; src=&quot;https://pic3.zhimg.com/v2-56a104dabe05bc62862de9331dc87d12_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5760&quot; data-original=&quot;https://pic3.zhimg.com/v2-56a104dabe05bc62862de9331dc87d12_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5533&quot; data-rawheight=&quot;3689&quot; src=&quot;https://pic4.zhimg.com/v2-04ce4b7d85042b4726975951fc205897_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5533&quot; data-original=&quot;https://pic4.zhimg.com/v2-04ce4b7d85042b4726975951fc205897_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5502&quot; data-rawheight=&quot;3263&quot; src=&quot;https://pic2.zhimg.com/v2-c81b5a6467607f70e8e810d722a166a1_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5502&quot; data-original=&quot;https://pic2.zhimg.com/v2-c81b5a6467607f70e8e810d722a166a1_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5079&quot; data-rawheight=&quot;3073&quot; src=&quot;https://pic1.zhimg.com/v2-4103acb5f7b92e062d9f48df842563ac_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5079&quot; data-original=&quot;https://pic1.zhimg.com/v2-4103acb5f7b92e062d9f48df842563ac_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;5603&quot; data-rawheight=&quot;3199&quot; src=&quot;https://pic3.zhimg.com/v2-60bb8ebd358d7c7d250d3625d1e7cef2_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;5603&quot; data-original=&quot;https://pic3.zhimg.com/v2-60bb8ebd358d7c7d250d3625d1e7cef2_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;3415&quot; data-rawheight=&quot;5123&quot; src=&quot;https://pic1.zhimg.com/v2-82fa322e471a2e184357a17335aea1e0_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3415&quot; data-original=&quot;https://pic1.zhimg.com/v2-82fa322e471a2e184357a17335aea1e0_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;3415&quot; data-rawheight=&quot;5123&quot; src=&quot;https://pic2.zhimg.com/v2-08b0575a1fa20121ea8f58e91ee02831_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3415&quot; data-original=&quot;https://pic2.zhimg.com/v2-08b0575a1fa20121ea8f58e91ee02831_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;3801&quot; data-rawheight=&quot;2243&quot; src=&quot;https://pic4.zhimg.com/v2-db532e82b8157a3ef62114cc1d0d5ea3_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3801&quot; data-original=&quot;https://pic4.zhimg.com/v2-db532e82b8157a3ef62114cc1d0d5ea3_r.jpg&quot;&gt;&lt;b&gt;Done!&lt;/b&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img data-rawwidth="3840" data-rawheight="5760" src="https://pic2.zhimg.com/v2-46bc339d69cb17ebaf55d067b2faf6e9_200x112.jpg" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-46bc339d69cb17ebaf55d067b2faf6e9_r.jpg">
+感谢大家厚爱，那么多的赞，和好评。 其实鄙人只是一个五线小城市的小摄影师傅，依然在不断的学习中，感谢大家抬爱。 ------------------------------------------------------------------------------------------ 征得女友同意，来答一波，在知乎的第一…
+
+<a href="/question/47323562/answer/144127247" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 09:30" target="_blank" href="/question/47323562/answer/144127247">编辑于 昨天 22:47</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11143765"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>99 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="28">
+<h2><a class="question_link" href="/question/24026432/answer/144117096" target="_blank" data-id="1792343" data-za-element-name="Title">
+游戏经验对于游戏策划来说很重要吗？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53177517"
+data-atoken="144117096"
+data-collapsed="0"
+data-created="1486078446"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/24026432/answer/144117096">
+<meta itemprop="answer-id" content="53177517">
+<meta itemprop="answer-url-token" content="144117096">
+<a class="zg-anchor-hidden" name="answer-53177517"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>79</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">79</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$chenqiangpan"
+target="_blank" href="/people/chenqiangpan"
+>陈灼</a></span><span title="2006-2017 游戏设计师/主设计师" class="bio">
+2006-2017 游戏设计师/主设计师
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="79">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">79</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1792343" data-action="/answer/content" data-author-name="陈灼" data-entry-url="/question/24026432/answer/144117096">
+
+<textarea hidden class="content">以前面试时必问的三个问题。&lt;br&gt;&lt;br&gt;你最近在玩什么游戏？&lt;br&gt;&lt;br&gt;       最近太忙了，都没时间玩游戏。（没时间玩游戏，你会花心思做游戏？）&lt;br&gt;&lt;br&gt;你最喜欢的游戏类型是什么？&lt;br&gt;&lt;br&gt;       我没什么特别偏好的游戏类型，什么都玩一点。（人以类聚，物以群分，你我类型重合，我们好好聊，你喜欢的我不熟悉，我跟你请教请教，你没有特别倾向，我怎么跟你往下聊？）&lt;br&gt;&lt;br&gt;举个例子，谈谈你最喜欢的游戏。&lt;br&gt;&lt;br&gt;       XX公司的游戏我不喜欢，XX游戏的新一代太坑了，XX游戏改动太大了。（避重就轻，你没有最喜欢的游戏，你又怎么会想做自己喜欢的游戏？）&lt;br&gt;&lt;br&gt;游戏体验的广度（类型，平台，受众），精度（投入的时间和技巧）和深度（对同一类游戏的溯源）绝对是最重要的面试问题之一。&lt;br&gt;&lt;br&gt;精度比较容易达到，对某一个特定游戏的长期专注，可以让人在面对同样的设计挑战时候，整个大脑的细胞都激活了。但没有广度支撑，又会让这样的人局限于单一的游戏，限定自己的思维方式和思考角度。没有深度的话，也就意味着没有自己的思考，去体会当下设计方法的根源，迭代和进化。&lt;br&gt;&lt;br&gt;问渠那得清如许，为有源头活水来嘛。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+以前面试时必问的三个问题。 你最近在玩什么游戏？ 最近太忙了，都没时间玩游戏。（没时间玩游戏，你会花心思做游戏？） 你最喜欢的游戏类型是什么？ 我没什么特别偏好的游戏类型，什么都玩一点。（人以类聚，物以群分，你我类型重合，我们好好聊，你喜欢的…
+
+<a href="/question/24026432/answer/144117096" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 07:34" target="_blank" href="/question/24026432/answer/144117096">编辑于 昨天 07:38</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-1792343"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>30 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="29">
+<h2><a class="question_link" href="/question/21698065/answer/144141009" target="_blank" data-id="860126" data-za-element-name="Title">
+人为什么会犯罪?
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53187043"
+data-atoken="144141009"
+data-collapsed="0"
+data-created="1486090797"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="0"
+>
+<link itemprop="url" href="/question/21698065/answer/144141009">
+<meta itemprop="answer-id" content="53187043">
+<meta itemprop="answer-url-token" content="144141009">
+<a class="zg-anchor-hidden" name="answer-53187043"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>386</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">386</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$kwy-36"
+target="_blank" href="/people/kwy-36"
+>Moriaty K</a></span><span title="犯罪心理学者" class="bio">
+犯罪心理学者
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="386">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">386</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="860126" data-action="/answer/content" data-author-name="Moriaty K" data-entry-url="/question/21698065/answer/144141009">
+
+<textarea hidden class="content">谢邀，首先我不得不说一句，题主这个问题&lt;b&gt;问得真是很累人，&lt;/b&gt;看到这个问题我是&lt;b&gt;悲喜交织&lt;/b&gt;的&lt;b&gt;，一方面，我高兴我是可以回答的，&lt;/b&gt;另一方面&lt;b&gt;，我伤心这个答案码字是注定得码到手酸的，&lt;/b&gt;这个问题从古至今引发过无数圣人先师的争辩，到现在基本可以&lt;b&gt;用科学的理论&lt;/b&gt;解释清楚，在这里我会用&lt;b&gt;尽量&lt;/b&gt;直白的文字，力求科学的阐述这个难题的答案。由于本人语言能力欠缺，尚未找到将这个问题“有趣而正确回答”的方法。所以&lt;b&gt;全程会比较枯燥&lt;/b&gt;，总的来说：&lt;b&gt;在下就是来讲道理发长文的，不是来抖机灵的&lt;/b&gt;！&lt;br&gt;在具体回答之前，先看看题主的问题：&lt;b&gt;“是否有基因决定说?”&lt;/b&gt;&lt;br&gt;答案是：&lt;b&gt;有，但影响可谓非常之小。于是我们进入第一部分：&lt;/b&gt;&lt;br&gt;&lt;b&gt;一·犯罪与遗传的关系&lt;/b&gt;&lt;br&gt;&lt;b&gt;犯罪遗传决定论学派&lt;/b&gt;进行过很多关于遗传和犯罪的关系研究，主要有下面几个比较著名的研究：&lt;br&gt;&lt;b&gt;1.家庭史研究（pedigree study）:&lt;/b&gt;宣称低能诱发犯罪，低能由隐形基因造成，并遵循基本遗传规律。→&lt;b&gt;局限性很大&lt;/b&gt;&lt;br&gt;&lt;b&gt;2.双生子研究（twin study）：&lt;/b&gt;显示同卵双生子&lt;b&gt;犯罪一致率&lt;/b&gt;比异卵双生子&lt;b&gt;高，&lt;/b&gt;加上对环境的研究后得出结论：遗传对犯罪有影响，但不能忽视环境的影响。→&lt;b&gt;可信度相对较高&lt;/b&gt;&lt;br&gt;&lt;b&gt;3.染色体说：&lt;/b&gt;人之所以犯罪，是因为性染色体数目异常→&lt;b&gt;缺乏实际证据支持&lt;/b&gt;&lt;br&gt;&lt;b&gt;4.收养子女研究：&lt;/b&gt;通过研究收养子女的犯罪情况及其与生父母和养父母的犯罪情况之间的关系，认为生物遗传和环境都可能对犯罪行为产生实质性影响。→&lt;b&gt;可信度相对较高&lt;/b&gt;&lt;br&gt;综上所述，&lt;u&gt;&lt;b&gt;遗传对犯罪是有一定影响的&lt;/b&gt;，&lt;/u&gt;但是&lt;b&gt;&lt;u&gt;其影响在后面我要阐述到的整个犯罪成因体系中非常小&lt;/u&gt;&lt;/b&gt;，总的来说，犯罪生物学家原因论者&lt;b&gt;把作为社会行为的犯罪行为，仅仅归结于由遗传在内的种种生物学因素所决定&lt;/b&gt;，是有失偏颇的，有很大&lt;b&gt;局限性&lt;/b&gt;。&lt;br&gt;下面我们回到&lt;b&gt;第二部分主问题的探讨&lt;/b&gt;上：&lt;br&gt;&lt;b&gt;贰· 人，究竟为什么会犯罪？&lt;/b&gt;&lt;br&gt;目前我国犯罪学学术界比较认同的观点是：&lt;b&gt;个体犯罪的原因&lt;/b&gt;包括&lt;b&gt;犯罪心理结构形成的原因&lt;/b&gt;和&lt;b&gt;犯罪行为发生的原因，也就是“&lt;/b&gt;&lt;b&gt;犯罪原因=犯罪心理结构形成原因+犯罪行为发生原因”&lt;/b&gt;&lt;br&gt;那么问题来了，我得先讲清楚一个专业术语：&lt;b&gt;犯罪心理结构&lt;/b&gt;&lt;br&gt;&lt;b&gt;（一）犯罪心理结构及其构成要素&lt;/b&gt;&lt;br&gt;所谓犯罪心理结构，就是指&lt;b&gt;行为人在犯罪行为实施前已经存在的，在犯罪行为实施时起支配作用的那些畸变心理因素有机而相对稳定的组合&lt;/b&gt;，它是行为人个性心理结构中社会心理缺陷的&lt;b&gt;总和&lt;/b&gt;，是发动犯罪行为的&lt;b&gt;内部心理原因&lt;/b&gt;和&lt;b&gt;根据。&lt;/b&gt;&lt;br&gt;总的来说，犯罪心理结构的&lt;b&gt;&lt;u&gt;要素&lt;/u&gt;&lt;/b&gt;主要有以下几点：&lt;br&gt;&lt;b&gt;1.动力结构&lt;/b&gt;（体现在个性的社会性层面上）&lt;b&gt;：&lt;/b&gt;&lt;br&gt;&lt;b&gt;（1）反社会意识:&lt;/b&gt;简单一点的说，就是&lt;b&gt;以损害公众利益满足一己私利的价值取向为核心的各种错误观念的总称&lt;/b&gt;，具体表现为错误的社会态度，社会动机和对社会秩序，社会规范的否定与蔑视，是&lt;b&gt;个体实施犯罪行为的精神支柱&lt;/b&gt;，对&lt;b&gt;犯罪动机&lt;/b&gt;起着&lt;b&gt;促进和加固&lt;/b&gt;作用，对&lt;b&gt;犯罪行为&lt;/b&gt;起着&lt;b&gt;支配作用。&lt;/b&gt;&lt;br&gt;&lt;b&gt;（2）强烈的，畸变的需求：&lt;/b&gt;&lt;br&gt;&lt;b&gt;需要是形成动机的内在动力，动机是需要的现实表现&lt;/b&gt;，犯罪人的需要，突出表现在其&lt;b&gt;对自我强烈需要的失控&lt;/b&gt;和&lt;b&gt;对需要满足方式与社会规范相对立&lt;/b&gt;两个方面，犯罪人的需要相较于守法者&lt;b&gt;更加固执，更加强烈&lt;/b&gt;。&lt;br&gt;&lt;b&gt;（3）犯罪动机：&lt;/b&gt;&lt;br&gt;犯罪动机是&lt;b&gt;驱动犯罪人实施犯罪行为的最直接内心起因&lt;/b&gt;，他是在犯罪&lt;b&gt;人强烈，畸变的需求基础上&lt;/b&gt;，在&lt;b&gt;外界诱因刺激下&lt;/b&gt;产生的，比如：具有&lt;b&gt;强烈物质需要&lt;/b&gt;的犯罪人，在接触到大量现金后，产生盗窃的动机，而&lt;b&gt;动机&lt;/b&gt;，&lt;b&gt;就是犯罪行为的直接动力&lt;/b&gt;。&lt;br&gt;&lt;b&gt;（4）不良兴趣：&lt;/b&gt;&lt;br&gt;犯罪者的兴趣主要&lt;b&gt;会呈现以下特点：偏于感官的兴趣&lt;/b&gt;，缺少高尚兴趣，多为追求刺激性生活的直接兴趣，&lt;b&gt;缺少对未来向往的间接兴趣&lt;/b&gt;，兴趣的理智水平低而不稳定等。&lt;br&gt;&lt;b&gt;2.调节结构：&lt;/b&gt;&lt;br&gt;&lt;b&gt;（1）不成熟或歪曲的自我意识:&lt;/b&gt;自我意识不成熟，存在自我评价上的幼稚性，歪曲性，盲目性，表现为个性的主观，片面，固执，狭隘，放纵等。&lt;br&gt;&lt;b&gt;（2）扭曲的道德意识：&lt;/b&gt;“牡丹花下死，做鬼也风流”&lt;br&gt;&lt;b&gt;（3）错误的法律意识：&lt;/b&gt;例如“两厢情愿，性自由（聚众淫乱）不犯罪”“法不责众，犯法的多了就没事”“打死坏人不算犯法”之类说法。&lt;br&gt;&lt;b&gt;3.特征结构：&lt;/b&gt;&lt;br&gt;&lt;b&gt;（1）特定的气质。&lt;/b&gt;&lt;br&gt;&lt;b&gt;（2）消极的性格特征&lt;/b&gt;（包括&lt;b&gt;消极的&lt;/b&gt;态度特征，情绪特征，理智特征，意志特征等）。&lt;br&gt;&lt;b&gt;（3）与犯罪活动相适应的能力。&lt;/b&gt;&lt;br&gt;&lt;b&gt;（4）不良的行为习惯。&lt;/b&gt;&lt;br&gt;&lt;b&gt;4.犯罪人心理状态：&lt;/b&gt;&lt;br&gt;&lt;b&gt;（1）消极，不良的心境。&lt;/b&gt;&lt;br&gt;&lt;b&gt;（2）实施犯罪前的心理状态：&lt;/b&gt;焦虑，高度紧张&lt;b&gt;。&lt;/b&gt;&lt;br&gt;&lt;b&gt;（3）实施犯罪活动时的心理状态：&lt;/b&gt;注意力高度集中，情绪亢奋，常态心理被压抑。&lt;br&gt;&lt;b&gt;5.潜意识：&lt;/b&gt;普遍的存在于动力，调节，特征三大结构中。&lt;br&gt;&lt;b&gt;综上所述，&lt;/b&gt;可将犯罪心理结构&lt;b&gt;各亚结构体在个性中所处的位置简化如图：&lt;img src=&quot;https://pic2.zhimg.com/v2-75716f28a4eaaa76341b52536114cc35_b.jpg&quot; data-rawwidth=&quot;1329&quot; data-rawheight=&quot;621&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1329&quot; data-original=&quot;https://pic2.zhimg.com/v2-75716f28a4eaaa76341b52536114cc35_r.jpg&quot;&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;另外值得一提的是，犯罪心理结构也可以分为很多种模式，比如最常见的故意犯罪心理结构模式：&lt;img src=&quot;https://pic3.zhimg.com/v2-034c46ab18b0baaf3cc543ee8f44970a_b.jpg&quot; data-rawwidth=&quot;1334&quot; data-rawheight=&quot;1001&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1334&quot; data-original=&quot;https://pic3.zhimg.com/v2-034c46ab18b0baaf3cc543ee8f44970a_r.jpg&quot;&gt;那么，既然“犯罪原因=犯罪心理结构形成原因+犯罪行为发生原因&lt;/b&gt;&lt;b&gt;犯罪心理结构形成的原因到底是什么呢？&lt;/b&gt;&lt;br&gt;学者对于犯罪心理结构的成因历来也是众说纷纭，比如内外因素论，动力因素论，系统因素论，多因素论，聚合效应论等观点&lt;b&gt;百家争鸣&lt;/b&gt;，这里我要选择用&lt;b&gt;犯罪综合动因论（synthetic agent theory of crime）&lt;/b&gt;来解释个体犯罪的具体形成原因。&lt;br&gt;&lt;b&gt;友情提示：本文较长，具体机理不感兴趣者可以拉到下面看最后的总结图。&lt;/b&gt;&lt;br&gt;&lt;b&gt;（二）犯罪综合动因论&lt;/b&gt;&lt;br&gt;简单来说，就是&lt;b&gt;把个体犯罪原因&lt;/b&gt;当成一个&lt;b&gt;母系统，&lt;/b&gt;这个母系统由若干&lt;b&gt;相互联系和相互作用着的主体内外因素（子系统）构成，形成多层次多维度的原因网络结构。&lt;/b&gt;&lt;br&gt;&lt;b&gt;犯罪综合动因论&lt;/b&gt;注意个体犯罪原因的&lt;b&gt;整体性，层次性，结构性和动态性，&lt;/b&gt;认为&lt;b&gt;&lt;u&gt;人之所以犯罪，是多种主体内外因素综合的互为动力作用的结果。&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;（1）影响犯罪心理结构形成的主体因素：&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;❶&lt;/b&gt;&lt;b&gt;生理因素（个体心理发展的物质基础）：&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅰ·&lt;/b&gt;&lt;b&gt;年龄因素：&lt;/b&gt;不同年龄阶段的人，由于&lt;b&gt;身心发展成熟程度不同&lt;/b&gt;，社会经历不同，会&lt;b&gt;对犯罪率高低，犯罪种类，作案手法等产生直接或间接的影响；&lt;/b&gt;例如少年易选择偷盗犯罪，团伙抢劫犯罪；体力旺盛，行为冲动，性欲强烈的青年容易选择杀人，伤害，抢劫或强奸等暴力犯罪，日趋成熟的中年则倾向于选择贪污，诈骗等贪利性犯罪。&lt;br&gt;&lt;b&gt;Ⅱ·性别因素：&lt;/b&gt;犯罪人往往根据&lt;b&gt;自身性别特点&lt;/b&gt;选择&lt;b&gt;犯罪种类和手法，例如杀人案件中，&lt;/b&gt;男犯往往采用暴力致死手段，女犯往往采用毒杀的手段。&lt;br&gt;&lt;b&gt;Ⅲ·神经类型因素：&lt;/b&gt;人的&lt;b&gt;高级神经活动类型，巴甫洛夫&lt;/b&gt;认为&lt;b&gt;“神经类型是作为心理特征的生理基础，气质是神经类型的心理表现”。&lt;/b&gt;这里就不一一展开叙述了，综合为下图：&lt;img src=&quot;https://pic3.zhimg.com/v2-5b2f8c9cf5d3817eb173d0f9139aca76_b.jpg&quot; data-rawwidth=&quot;382&quot; data-rawheight=&quot;241&quot; class=&quot;content_image&quot; width=&quot;382&quot;&gt;一般来说，&lt;b&gt;兴奋型&lt;/b&gt;的人较易实施&lt;b&gt;突发性暴力犯罪&lt;/b&gt;，&lt;b&gt;安静型&lt;/b&gt;的人则更多选择&lt;b&gt;智能犯罪&lt;/b&gt;，如诈骗，贪污等犯罪类型。&lt;br&gt;&lt;b&gt;Ⅳ·异常的生物学因素等：&lt;/b&gt;主要包含&lt;b&gt;遗传负因，精神发育迟缓（低能），内分泌异常，物质代谢异常，脑损伤，精神障碍，酒精中毒以及药物依赖&lt;/b&gt;等&lt;br&gt;&lt;b&gt;❷心理因素：&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅰ·&lt;/b&gt;&lt;b&gt;个体倾向性因素：&lt;/b&gt;主要表现在&lt;b&gt;心理活动的选择性，对事物的不同态度和行为模式上。&lt;/b&gt;例如&lt;b&gt;强烈的利己主义动机&lt;/b&gt;，&lt;b&gt;缺乏正确信念和世界观&lt;/b&gt;等个性倾向性与犯罪心理结构的形成密不可分。&lt;br&gt;&lt;b&gt;Ⅱ·性格结构因素：包括&lt;/b&gt;对社会现实的性格特征，性格的意志特征，性格的情绪特征，性格的理智特征等。&lt;b&gt;常见的性格扭曲表现在思维偏激极端，是非善恶分辨能力差，道德认识和评价水平低等。&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅲ·控制系统的缺陷：自我控制系统主要由道德观念和法制观念构成，&lt;/b&gt;一个道德观念和法制观念缺乏的人，很容易个性扭曲而形成犯罪心理结构。&lt;br&gt;&lt;b&gt;Ⅳ·个性异常：人格障碍，包括各种变态犯罪心理。&lt;/b&gt;&lt;br&gt;&lt;b&gt;❸行为因素：&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅰ·错误的活动：错误的活动（观看淫秽录像，扰乱公众秩序等）&lt;/b&gt;对行为人心理产生各种不良影响，减弱其对不良诱因的调节作用，增强动力结构，进而容易诱发犯罪行为。&lt;br&gt;&lt;b&gt;Ⅱ·模仿和学习不良行为，有害的行为习惯。&lt;/b&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;（2）&lt;/b&gt;&lt;b&gt;影响犯罪心理结构形成的&lt;/b&gt;&lt;b&gt;主体外因素&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;b&gt;❶社会环境因素（social environmental factors）:&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅰ.大社会环境因素（macro social environmental）:&lt;/b&gt;&lt;br&gt;&lt;b&gt;ⅰ·&lt;/b&gt;&lt;b&gt;政治环境因素&lt;/b&gt;会引起&lt;b&gt;阶级斗争&lt;/b&gt;的不同&lt;b&gt;，&lt;/b&gt;对&lt;b&gt;政治性犯罪&lt;/b&gt;有很大影响；&lt;br&gt;&lt;b&gt;ⅱ·&lt;/b&gt;&lt;b&gt;经济环境因素&lt;/b&gt;会在一定程度上影响&lt;b&gt;需求关系，&lt;/b&gt;对&lt;b&gt;物质型犯罪&lt;/b&gt;有很大影响；&lt;br&gt;&lt;b&gt;ⅲ·&lt;/b&gt;&lt;b&gt;文化，精神环境因素（观念环境因素）容易影响作为动力结构成分的世界观等因素，&lt;/b&gt;不良的精神环境会刺激诱发犯罪心理。&lt;br&gt;&lt;b&gt;ⅳ·&lt;/b&gt;&lt;b&gt;法制环境因素包括刑事立法和司法公正，&lt;/b&gt;立法的缺漏，司法的畸重或畸轻，都会对犯罪心理有影响。&lt;br&gt;&lt;b&gt;Ⅱ·小社会环境因素（micro social environment）:&lt;/b&gt;&lt;br&gt;&lt;b&gt;ⅰ&lt;/b&gt;&lt;b&gt;家庭因素（&lt;/b&gt;&lt;b&gt;☆&lt;/b&gt;&lt;b&gt;）：&lt;/b&gt;个体犯罪犯罪心理畸变往往与&lt;b&gt;自幼的家庭环境&lt;/b&gt;有非常紧密的联系。&lt;br&gt;&lt;b&gt;ⅱ·学校因素：&lt;/b&gt;包括&lt;b&gt;教育内容的缺陷，教育态度和方法上的偏差，师生或生生关系障碍，管理的缺陷&lt;/b&gt;等容易滋生一些学生的犯罪心理。&lt;br&gt;&lt;b&gt;ⅲ·工作场所因素&lt;/b&gt;：例如“&lt;b&gt;只重视利益，不重视道德观念&lt;/b&gt;”这一畸变的现状，容易致使一些职工缺乏道德意识和法纪观念。&lt;br&gt;&lt;b&gt;ⅳ·人际交往因素：&lt;/b&gt;不良的人际交往主要在&lt;b&gt;越轨小群体&lt;/b&gt;中进行，对犯罪心理的影响表现在&lt;b&gt;模仿，负面竞争，传习教唆，控制等方面&lt;/b&gt;，容易形成&lt;b&gt;副文化群体&lt;/b&gt;，使得群体成员犯罪心理不断巩固和发展。&lt;br&gt;&lt;b&gt;ⅴ·职业因素：&lt;/b&gt;职业可以为犯罪提供&lt;b&gt;机会和方便条件&lt;/b&gt;，也可以为犯罪提供&lt;b&gt;技术。&lt;/b&gt;&lt;br&gt;&lt;b&gt;❷自然环境条件&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅰ·地域因素:地域因素&lt;/b&gt;对犯罪心理的影响作用表现在&lt;b&gt;：可以为犯罪人提供满足某种需要的对象，&lt;/b&gt;例如边境，沿海多发生走私案件，农村多发生盗窃耕畜案件，抢劫和强奸多发生在偏僻地区等。&lt;br&gt;&lt;b&gt;Ⅱ·季节因素：&lt;/b&gt;季节只有和人的习惯，日常生活联系起来，才能对犯罪心理的形成有一定影响作用，例如，&lt;b&gt;性犯罪&lt;/b&gt;的季节性呈现比较明显的“&lt;b&gt;夏高冬低&lt;/b&gt;”特点。&lt;br&gt;&lt;b&gt;Ⅲ·时间因素：&lt;/b&gt;例如，黑夜的犯罪率高于白天，夜晚2—3时成为&lt;b&gt;撬窃案&lt;/b&gt;的集中区，周末周日犯罪率高于工作日等。&lt;br&gt;&lt;b&gt;Ⅳ·自然灾害因素&lt;/b&gt;：自然灾害伴随着&lt;b&gt;紧张，恐惧，焦虑等群体情绪&lt;/b&gt;，不良意识容易在少数人人格中滋生。&lt;br&gt;&lt;b&gt;❸情景因素：&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅰ·侵害对象：&lt;/b&gt;作为侵害对象的人和物的存在，&lt;b&gt;并不必然引起犯罪动机产生，但起着诱发，强化犯罪动机的作用，&lt;/b&gt;同样具有被害性的人和物，&lt;b&gt;如携带巨款的人，衣着单薄，曲线毕露的女性，&lt;/b&gt;对于社会化过程完全的个体来说，&lt;b&gt;由于有道德感，法治观等构成健全的自我约束机制，&lt;/b&gt;不会产生侵害或占有的行为，但对于社会化不完全，个性心理结构存在缺陷的人来说，&lt;b&gt;会弱化自我约束机制，并在动力结构支配下产生犯罪动机。&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅱ·现场其他人：&lt;/b&gt;简单来说，如果是&lt;b&gt;同伙现场人，会强化犯罪心理，&lt;/b&gt;如果是&lt;b&gt;陌生目击者，会弱化犯罪心理。&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅲ·现场条件和气氛：&lt;/b&gt;现场气氛为犯罪现场的&lt;b&gt;物质条件，&lt;/b&gt;影响着犯罪人&lt;b&gt;心理压力和程度，&lt;/b&gt;还有&lt;b&gt;情绪感染作用。&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ⅳ·机遇：&lt;/b&gt;影响犯罪人形成犯罪心理的&lt;b&gt;偶然机会。&lt;/b&gt;例如平时平行不端的人，在荒郊&lt;b&gt;偶遇&lt;/b&gt;少女而产生强奸动机。&lt;b&gt;机遇的出现只是一种外在行为&lt;/b&gt;，是否产生犯罪行为，需要综合其他方面评定。&lt;br&gt;以上就比较“&lt;b&gt;简单的&lt;/b&gt;”介绍完了&lt;b&gt;犯罪心理结构形成的因素&lt;/b&gt;，你以为这就完了？别着急，下面我们进入公式的第二部分：&lt;b&gt;犯罪行为发生原因。&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;（3）影响犯罪行为发生的因素&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;❶犯罪行为人因素：已经形成犯罪心理结构的人&lt;/b&gt;要实施犯罪行为，必须具备一定的条件，&lt;b&gt;包括足以实施该种犯罪行为的体格，作案的智能水平和技能，作案时机的确定以及作案工具的准备等。&lt;/b&gt;&lt;br&gt;&lt;b&gt;❷犯罪行为情景因素:&lt;/b&gt;犯罪行为的发生是&lt;b&gt;具有犯罪心理结构和主体条件的犯罪行为人与犯罪行为情景相互作用&lt;/b&gt;的结果，其关系如下图：&lt;img src=&quot;https://pic2.zhimg.com/v2-1959b9ee30ae9d38d729a81312946149_b.jpg&quot; data-rawwidth=&quot;4032&quot; data-rawheight=&quot;727&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;4032&quot; data-original=&quot;https://pic2.zhimg.com/v2-1959b9ee30ae9d38d729a81312946149_r.jpg&quot;&gt;上图可以解释三种&lt;b&gt;基本犯罪行为发生过程&lt;/b&gt;：&lt;br&gt;Ⅰ·犯罪行为人&lt;b&gt;主动寻找或制造犯罪行为情景&lt;/b&gt;，一旦找到或造成，便发生犯罪行为；&lt;br&gt;Ⅱ·犯罪行为人&lt;b&gt;等待犯罪机遇的出现&lt;/b&gt;，一有机遇，即发生犯罪行为，这种人性格多属于&lt;b&gt;内向型&lt;/b&gt;，&lt;b&gt;犯罪心理隐蔽极深&lt;/b&gt;，如无机遇，也许一生都不犯罪。&lt;br&gt;Ⅲ·犯罪行为人在&lt;b&gt;实施犯罪行为的过程中出现了新的情景，并作用于犯罪行为人的犯罪心理结构，从而实施新的犯罪行为；或者，犯罪行为的结果先成为情境的组成部分，再反馈到其犯罪心理结构，导致新的犯罪行为&lt;/b&gt;；例如，犯罪人&lt;b&gt;入室盗窃&lt;/b&gt;，发现室内有女子，随即产生&lt;b&gt;强奸动机&lt;/b&gt;，在强奸过程中被害人反抗，呼救，使得犯罪人受到威胁，这个新出现的情景反馈到犯罪人的犯罪心理结构中，又&lt;b&gt;迅速产生杀人灭口的动机&lt;/b&gt;。注意：用这个机制也可以解释&lt;b&gt;白银案中案五&lt;/b&gt;高承勇的&lt;b&gt;犯罪心理机制&lt;/b&gt;。&lt;br&gt;到此为止，人为什么犯罪，即“&lt;b&gt;犯罪原因=犯罪心理结构形成原因+犯罪行为发生原因”&lt;/b&gt;解释完毕。&lt;br&gt;拖得累吗？&lt;b&gt;最后来看个图吧&lt;/b&gt;&lt;br&gt;&lt;b&gt;总结：&lt;/b&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-a7f3a45593fd445a82a9c6a37b838fa5_b.jpg&quot; data-rawwidth=&quot;1009&quot; data-rawheight=&quot;515&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1009&quot; data-original=&quot;https://pic2.zhimg.com/v2-a7f3a45593fd445a82a9c6a37b838fa5_r.jpg&quot;&gt;&lt;br&gt;我看了其他几个答案&lt;b&gt;，&lt;/b&gt;都存在一个大问题&lt;b&gt;：过于片面&lt;/b&gt;&lt;br&gt;&lt;b&gt;无论是欲望需求紧张，还是弗洛伊德的潜意识，性根源说，都是片面性的，对于犯罪这个社会现象，要用全面性，系统性的观点去看待。&lt;/b&gt;&lt;br&gt;&lt;b&gt;还有个匿名用户堂而皇之的宣称“ &lt;/b&gt;如何防止犯罪比这个课题可能更有实际意义。&lt;b&gt;”，&lt;/b&gt;你倒是说一说，&lt;b&gt;连“为什么”都解释不清楚，你拿什么去研究“怎么预防”？&lt;/b&gt;犯罪预防是建立在犯罪学对于犯罪原因和其他很多方面的研究之上的，以来就来个&lt;b&gt;“实际意义”&lt;/b&gt;之名，真是滑稽可笑。&lt;br&gt;毕。&lt;br&gt;评论区出现不少来我这里攻击法律制度和不知道是没看答案还是说理解能力非常欠缺唧唧歪歪说个不停的人，看着很窝火，所以评论闭了，其他有问题的知友，请私信问我。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic3.zhimg.com/v2-5b2f8c9cf5d3817eb173d0f9139aca76_200x112.jpg" data-rawwidth="382" data-rawheight="241" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-5b2f8c9cf5d3817eb173d0f9139aca76_r.jpg">
+谢邀，首先我不得不说一句，题主这个问题<b>问得真是很累人，</b>看到这个问题我是<b>悲喜交织</b>的<b>，一方面，我高兴我是可以回答的，</b>另一方面<b>，我伤心这个答案码字是注定得码到手酸的，</b>这个问题从古至今引发过无数圣人先师的争辩，到现在基本可以<b>用科学的理论</b>解释清楚，…
+
+<a href="/question/21698065/answer/144141009" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 10:59" target="_blank" href="/question/21698065/answer/144141009">编辑于 昨天 13:01</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-860126"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="0">
+<meta name="disableCopyAvatar" content="https://pic2.zhimg.com/v2-aae2ab37f9a0d89210ca5722cf6580d5_s.jpg">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright">禁止转载</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="30">
+<h2><a class="question_link" href="/question/53639629/answer/144125133" target="_blank" data-id="13675704" data-za-element-name="Title">
+2016 年你所在的行业发生了哪些变化？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53180741"
+data-atoken="144125133"
+data-collapsed="0"
+data-created="1486084406"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/53639629/answer/144125133">
+<meta itemprop="answer-id" content="53180741">
+<meta itemprop="answer-url-token" content="144125133">
+<a class="zg-anchor-hidden" name="answer-53180741"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>108</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">108</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$li-jin-yuan-21"
+target="_blank" href="/people/li-jin-yuan-21"
+>李晋原</a></span><span title="时光像胶囊" class="bio">
+时光像胶囊
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="108">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">108</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="13675704" data-action="/answer/content" data-author-name="李晋原" data-entry-url="/question/53639629/answer/144125133">
+
+<textarea hidden class="content">站在校招的角度看一看行业变化。三年前本科毕业关注校招，而今研究生毕业经历校招。学校在华中地区基本很有代表性了，大公司校招绝对绕不开我们学校。所以大体来谈谈。&lt;br&gt;大规模招聘的行业只有互联网，地产和金融行业。其他行业都悄无声息或者招人很少。&lt;br&gt;互联网。除了BAT之外，二线互联网招聘需求依然强烈，甚至有当天一站式笔试面试再直接发offer的形式抢人了。值得一提的是华为九月初开高薪大规模招聘，先下手为强招走了很多同学。&lt;br&gt;地产。基本上以排名前十的大地产为主，或者少数专注细分领域的地产为主。呈现大地产招人多，小地产招人少或者不招人的冰火两重天景象。&lt;br&gt;金融。银行类从几年前的大规模宣讲会到现在低调行事，甚至一部分银行连宣讲会也不办了，银行吸引力越来越低。券商类，部分大券商招人少或者不招人，但是小券商招人需求依然很大。大家不再优选银行，反而优选券商。四大，三年前四大在五星级酒店开宣讲会，而今租个学校的便宜报告厅开宣讲会，而且四大吸引力相对也低了不少。值得一提的是，近年来涌现了不少私募基金开出高薪招人，是以前在应届毕业生很少见到的。哦今年不管公募还是私募基金招人都特多。&lt;br&gt;另外很明显的现象是，曾经应届生心目中梦寐以求的宝洁，联合利华，mars，雀巢等快消行业，如今真的是无比没落，曾经开宣讲会在最大报告厅依然爆满的快消，如今连宣讲会都不开了，相反蓝月亮等国内快消品牌异军突起，诚意开出高薪大规模招人。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+站在校招的角度看一看行业变化。三年前本科毕业关注校招，而今研究生毕业经历校招。学校在华中地区基本很有代表性了，大公司校招绝对绕不开我们学校。所以大体来谈谈。 大规模招聘的行业只有互联网，地产和金融行业。其他行业都悄无声息或者招人很少。 互联…
+
+<a href="/question/53639629/answer/144125133" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/53639629/answer/144125133">发布于 昨天 09:13</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-13675704"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>64 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
