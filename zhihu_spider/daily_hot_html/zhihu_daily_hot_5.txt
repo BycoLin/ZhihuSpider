@@ -1,0 +1,636 @@
+<div class="explore-feed feed-item" data-offset="6">
+<h2><a class="question_link" href="/question/55270958/answer/144251906" target="_blank" data-id="14328396" data-za-element-name="Title">
+我应不应该分手?
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53231467"
+data-atoken="144251906"
+data-collapsed="0"
+data-created="1486129500"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/55270958/answer/144251906">
+<meta itemprop="answer-id" content="53231467">
+<meta itemprop="answer-url-token" content="144251906">
+<a class="zg-anchor-hidden" name="answer-53231467"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1525</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1525</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$chen-lan-xiang-76"
+target="_blank" href="/people/chen-lan-xiang-76"
+>陈兰香</a></span><span title="上不知天文，下不知地理，中间知道点生理。" class="bio">
+上不知天文，下不知地理，中间知道点生理。
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1525">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1525</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="14328396" data-action="/answer/content" data-author-name="陈兰香" data-entry-url="/question/55270958/answer/144251906">
+
+<textarea hidden class="content">小姑娘，依我这个知性大姐姐看，正常二十八九的小伙子不会找十七岁小姑娘谈恋爱的，根本没有共同语言好吗？&lt;br&gt;&lt;br&gt;至于他的目的我就不说了，免得破坏你对成人世界的幻想。就说一点，他告诉你你们要在一起得父母同意，很有可能以后他只需要父母不同意这个理由就可以义无反顾地甩了你，那时他想得到已经得到，你不该失去的已经失去。&lt;br&gt;&lt;br&gt;对了，我还是个高中老师，一天到晚想入非非不影响学习吗？农村的孩子，尤其是女孩，只有一次改变命运的机会，就是高考了，考个好大学以后溜溜的汉子随你挑，否则只能在村里找个人嫁了，懂了吗？&lt;br&gt;&lt;br&gt;赶紧忘了那个你以为的“高富帅”，真正28岁家里在一线城市有几套房子的高富帅没时间搭理高中生。你可能还搞不清楚在一线城市有几套房子是什么概念，但我可以告诉你，真正那样的人他们肯定不会看上农村的高中生。我不是看不起你啊，我当年也是从农村走出来的。&lt;br&gt;&lt;br&gt;最后再告诉你个秘密，一般认识个姑娘不到一个月就告诉她自己父母有钱，亲戚朋友有钱，连前女友都有钱的基本都是屌丝，甚至骗子。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+小姑娘，依我这个知性大姐姐看，正常二十八九的小伙子不会找十七岁小姑娘谈恋爱的，根本没有共同语言好吗？ 至于他的目的我就不说了，免得破坏你对成人世界的幻想。就说一点，他告诉你你们要在一起得父母同意，很有可能以后他只需要父母不同意这个理由就可…
+
+<a href="/question/55270958/answer/144251906" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 21:45" target="_blank" href="/question/55270958/answer/144251906">编辑于 昨天 23:43</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-14328396"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>232 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="7">
+<h2><a class="question_link" href="/question/55369287/answer/144246703" target="_blank" data-id="14367719" data-za-element-name="Title">
+如何反黑更有效？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53229412"
+data-atoken="144246703"
+data-collapsed="0"
+data-created="1486127731"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/55369287/answer/144246703">
+<meta itemprop="answer-id" content="53229412">
+<meta itemprop="answer-url-token" content="144246703">
+<a class="zg-anchor-hidden" name="answer-53229412"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>108</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">108</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$xiang-xiang-xiang-xiang-ri-kui-67"
+target="_blank" href="/people/xiang-xiang-xiang-xiang-ri-kui-67"
+>胡风归来迟</a></span><span title="飘在知识海洋中的小向日葵" class="bio">
+飘在知识海洋中的小向日葵
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="108">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">108</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="14367719" data-action="/answer/content" data-author-name="胡风归来迟" data-entry-url="/question/55369287/answer/144246703">
+
+<textarea hidden class="content">我觉着我应该算是战斗粉。&lt;br&gt;&lt;br&gt;应该在战斗的路上。&lt;br&gt;&lt;br&gt;昨天睡得很晚，在做我们家几个顽固黑子的资料，现在有点困，想到哪儿写到哪儿。&lt;br&gt;&lt;br&gt;我觉得的反黑，分为两个部分。&lt;br&gt;一部分是接近于职黑的（不管是不是职黑），这部分人仿佛一天二十四小时都在黑张艺兴。&lt;br&gt;&lt;br&gt;梁城茉莉，大家应该不陌生，拿出极其可笑的证据出来污蔑张艺兴为老九门做的曲子为抄袭，原博转发上千。&lt;br&gt;&lt;br&gt;而不实信息转发超过500即为违法。&lt;br&gt;&lt;br&gt;兴家妹子除了第一时间做好证据反驳之外，马上开始了以各种途径维权，然而并没有什么卵用。原博仍在，并且还一直被转发，在这儿我不禁开始怀疑渣浪的机制，向新浪投诉不实信息没有任何回音。我们转而向网警求助，也同样石沉大海。&lt;br&gt;&lt;br&gt;这只是近段时间的一个小例子。&lt;br&gt;&lt;br&gt;还有一个人，古恺零月，这个人的前身我大概猜得到，他们俩的遣词造句几乎一模一样，旨在毫无底线的辱骂张艺兴及其家人，甚至连叛国这种让人又好气又好笑的话都能说出来。&lt;br&gt;&lt;br&gt;以上两个人仅为代表，这类人，像是阴沟里的臭虫，拿着放大镜狰狞着盯着张艺兴。他们有个很明显的特征，有组织性。关于张艺兴或Xback一切负面消息都能在它们的微博里提前找到，举个例子，近段时间贝贝们很烦的一件事，贝贝们两年前的应援视频被翻了出来，营销号使用几乎相同的文案转发，配上两个字，邪教。&lt;br&gt;&lt;br&gt;......&lt;br&gt;&lt;br&gt;我去翻梁城茉莉的微博，他在一月十三号发了一样的视频，文案几乎一样。&lt;br&gt;&lt;br&gt;那一刻我才知道，前不久传闻的团队下场并不是谣传，有人在盯着张艺兴跟我们，我们现在没有错误，就找去两年前。&lt;br&gt;&lt;br&gt;本来这一部分不该在这里说的，但还是想说：应援的妹子没有错，当时整个团队决定的应援方式就是这样，不止兴家在做，而且地点是在举行演唱会的体育馆外，而职黑单单把兴家拉出来，一方面是因为张艺兴没什么好黑的了，现在的兴家没什么好黑的了，我想，另一方面，也是在试探。&lt;br&gt;&lt;br&gt;对于这种职黑，举报几乎没有用，不然也不能叫渣浪，我们只能看着他们编造一个又一个谣言往张艺兴身上套，谣言有营销号帮人传播，而我们的澄清却只能留在营销号的微博下面，再想尽办法把它顶上热评。遇到不要脸的营销号，还会把澄清删了（对说的就是今天那个不要脸的&lt;br&gt;&lt;br&gt;这个时候，粉丝只能寄希望于gzs，然而不知道因为什么，gzs在这方面似乎并不上心，对方团队一而再再而三的试探，这些所谓黑料总有一天会在潜移默化中变成路人以为的事实。&lt;br&gt;&lt;br&gt;目前我觉得的针对这类职黑，粉丝能做到除了举报之外，第一，在网络上要严格要求自己，不犯错，不做键盘侠，提高兴家整体素质。第二，积极的参与公益并传播正能量。第三，在看见有被营销号带了节奏的路人（注意，是真路人）时，不要生气。在此类营销号下面，以轻松的方式回复，不要zqsg，反正咱都知道他的目的，不如留给路人好的印象。&lt;br&gt;&lt;br&gt;而最重要的一点：不要回复职黑！！！不要跟他们理论！！！&lt;br&gt;&lt;br&gt;还有一类就是各种各样的别家粉&lt;br&gt;&lt;br&gt;微博上有个叫草鲵鸡的人，人肉过我们家很多妹子，闲下来翻他的微博触目惊心。&lt;br&gt;&lt;br&gt;这些人大概是生活中的loser吧，把时间精力放在网络上，去盯着自己不喜欢的人，然而最可怜的是他们也只能看着自己讨厌的人在自己的路上飞奔，自己却只能在网络上bb，连成为他对手的资格都没有。&lt;br&gt;&lt;br&gt;通常这类人是跟职黑抱团的，职黑专注捏造，再由这类人来传播。&lt;br&gt;&lt;br&gt;对付这类人，举报是基本，然而在这里多了一层风险，就是我上面说的，人肉，请广大粉丝（不止我们家）保护好自己的个人信息，我们家妹子已经有很多遭遇这种事情了，学校班级真实姓名被他们po在微博上供人传播辱骂。除了举报之外，我建议有反黑意向的贝贝们做好备案，比如上面提到的草XX是哪家的，捏造了什么、做了什么等等，在饭圈，有一个不成文的规矩，先撩者贱，此处不细提。截图可以用来做很多事情，比如前段时间某家粉提出的多利、卖惨等等，这些都可以当作证据，当然，这些就完全属于饭圈，没职黑那些下手狠。我们能做的就是敏感一些，截图存证，有时候真的挺无奈的，你觉得根本不能算个事儿的事情，在饭圈、在别家人眼里就不一样，逼得你只能关注在意。&lt;br&gt;&lt;br&gt;而当这部分黑子跟职黑抱团时，我们要做的就是迅速做好反黑实锤（实锤要求我们把老张最近的每一次采访做好备案，内容整理出文字版以应对黑子们的污蔑，或者了解老张行程等等），在营销号发了之后，迅速抢占热评，把证据送上热门。此时不要回复恶评！！点赞澄清即可！！&lt;br&gt;&lt;br&gt;如果等你发现营销号时黑子已经跟他们抱团了的话，不要再去评论增加热度，已经不可挽回了，那就把证据通过粉丝自己传播，越远越好。营销号出动时极有可能会占据广场，此时根据气息的指示，转赞评其他微博，把营销号压下去，阻止他们的扩散。&lt;br&gt;&lt;br&gt;从上面能看出来，我们家，非常被动。所以有一点非常重要，就是贝贝们要冷静，不管什么不好的话题被刷上榜、不管营销号职黑又泼过来多少脏水，请贝贝们一定要冷静，且保持好的心情，开开心心的，不要让他们影响你。根据气息、反黑站子的领导来。同时做好自己，专注自家是基本，积极参与公益、做好自己的工作、好好学习，让自己变得越来越好。提升自己，也是一种反黑，因为你有黑子没有的眼界与深度，你在跟老张一样越来越好，而他们始终在阴沟里抱着键盘碌碌无为。&lt;br&gt;&lt;br&gt;暂时就写到这儿，希望有更好的答案，我也学习一下。&lt;br&gt;&lt;br&gt;我相信咱兴家的人，就算是反黑，都会与众不同&lt;br&gt;&lt;br&gt;分割线&lt;br&gt;&lt;br&gt;以上为微博反黑&lt;br&gt;&lt;br&gt;知乎反黑现在虽然不明显，但总还是需要的，但贝贝们要注意的是，只要答主没有编造黑料传播黑料，无需举报，点反对赞同即可，但如果是像那位著名的某猫，借客观公正为名传播梁城茉莉的无脑黑料，请立即澄清并举报。&lt;br&gt;&lt;br&gt;B站：有垃圾在剪视频了，请不要点开看，也不要在评论里留下什么，如无意点开就举报，不要有好奇心去搜索，不要刻意去举报，发现了就私信张艺兴B站投喂总支部，交给他们解决。总之把垃圾视频影响力降到最低。&lt;br&gt;&lt;br&gt;请一定！！！克制住好奇心！！！&lt;br&gt;&lt;br&gt;另外，不要随意怼gzs，虽然我不否认gzs垃圾，但，谨防被利用。跟着气息及各大站子走，不要只跟着大大走。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+我觉着我应该算是战斗粉。 应该在战斗的路上。 昨天睡得很晚，在做我们家几个顽固黑子的资料，现在有点困，想到哪儿写到哪儿。 我觉得的反黑，分为两个部分。 一部分是接近于职黑的（不管是不是职黑），这部分人仿佛一天二十四小时都在黑张艺兴。 梁城茉莉…
+
+<a href="/question/55369287/answer/144246703" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 21:15" target="_blank" href="/question/55369287/answer/144246703">编辑于 昨天 22:11</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-14367719"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>70 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="8">
+<h2><a class="question_link" href="/question/55318807/answer/144120602" target="_blank" data-id="14347520" data-za-element-name="Title">
+如何评价纪录片《中国通史 2016》关于中国人是本土古人进化而来的观点？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53178938"
+data-atoken="144120602"
+data-collapsed="0"
+data-created="1486081726"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/55318807/answer/144120602">
+<meta itemprop="answer-id" content="53178938">
+<meta itemprop="answer-url-token" content="144120602">
+<a class="zg-anchor-hidden" name="answer-53178938"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>357</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">357</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$le-zheng-yan-he"
+target="_blank" href="/people/le-zheng-yan-he"
+>王言和YahyaShah</a></span><span title="Duzakh soir" class="bio">
+Duzakh soir
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="357">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">357</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="14347520" data-action="/answer/content" data-author-name="王言和YahyaShah" data-entry-url="/question/55318807/answer/144120602">
+
+<textarea hidden class="content">我不认为十万年前有中国。&lt;br&gt;我不认为十万年前的如今中国的土地能被称为中国。&lt;br&gt;这个问题下多少人都不明白，人类的迁徙变化，和新石器时代以来人类的文明史，是两个时间“数量级“上的问题&lt;br&gt;&lt;br&gt;这个论点是想把中国打造成一片土地，而不是一个文明国度。&lt;br&gt;把中国弄成了地理概念，讲述历史的时候，是想讲述这片土地的历史，而不是中国人，这个文明国度的历史。这和中国几千年来的叙述传统是不符的&lt;br&gt;&lt;br&gt;言下之意是，他认为中国人起源于本土人类，比起源于非洲更加自豪。中国人起源于非洲，比起源于本土来得更可耻&lt;br&gt;&lt;br&gt;这是什么好的倾向吗？中国作为一个正正堂堂的文明国度，需要构造这种文明诞生之前的联系？&lt;br&gt;明明十万年前没有中国，使中国变成中国的，是一万年以来，新石器时代的人类。而不是更早的什么原始人。这些原始人从哪里来，我并不关心，即使从非洲来，也没有必要觉得可耻。&lt;br&gt;严格来说，十万年前也是没有非洲概念的。如今的非洲人，和我们又有什么相似性？&lt;br&gt;&lt;br&gt;再退一万步说，这个广西智人能够进入我们的视线，难道不是拜华夏文明扩张所赐？要知道先秦时期，广西明明还不是中国。（这和某些人想的不一样，有的人就认为十万年前一百万年前这个地方就一直是中国了！）&lt;br&gt;&lt;br&gt;如果另一个平行宇宙，广西始终没有成为中国（打个比方，没有分裂国家的意思），那中国人就又不是本土起源了？这真是“薛定谔的中国人”啊&lt;br&gt;&lt;br&gt;十万年前的人类究竟是哪里起源，居然还受到最近几千年来的文明活动的影响？</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+我不认为十万年前有中国。 我不认为十万年前的如今中国的土地能被称为中国。 这个问题下多少人都不明白，人类的迁徙变化，和新石器时代以来人类的文明史，是两个时间“数量级“上的问题 这个论点是想把中国打造成一片土地，而不是一个文明国度。 把中国弄成…
+
+<a href="/question/55318807/answer/144120602" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 08:28" target="_blank" href="/question/55318807/answer/144120602">编辑于 昨天 08:52</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-14347520"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>26 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="9">
+<h2><a class="question_link" href="/question/37111755/answer/144144863" target="_blank" data-id="7051601" data-za-element-name="Title">
+有哪些专业做彩妆，价钱又不是很贵的小众牌子？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53188567"
+data-atoken="144144863"
+data-collapsed="0"
+data-created="1486092107"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/37111755/answer/144144863">
+<meta itemprop="answer-id" content="53188567">
+<meta itemprop="answer-url-token" content="144144863">
+<a class="zg-anchor-hidden" name="answer-53188567"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>413</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">413</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$blair-su-32"
+target="_blank" href="/people/blair-su-32"
+>Blair Su</a></span><span title="微信公众号：liuxuewangwang 天生卷毛的好人" class="bio">
+微信公众号：liuxuewangwang 天生卷毛的…
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="413">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">413</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7051601" data-action="/answer/content" data-author-name="Blair Su" data-entry-url="/question/37111755/answer/144144863">
+
+<textarea hidden class="content">&lt;p&gt;我来推荐几个欧美相对小众，不是Drugstore里卖的，但是价格又比较平民的牌子。最近买疯了，化妆柜都就快塞爆了……&lt;/p&gt;&lt;p&gt;1. Juvias Place    &lt;/p&gt;&lt;p&gt;购买网址：&lt;a href=&quot;//link.zhihu.com/?target=https%3A//www.juviasplace.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Juvia’s Place &lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-8f8dd4e36147605d02d28b60ac55eb44_b.jpg&quot; data-rawwidth=&quot;1080&quot; data-rawheight=&quot;733&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1080&quot; data-original=&quot;https://pic1.zhimg.com/v2-8f8dd4e36147605d02d28b60ac55eb44_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-ba5f0f05742b757691f5ffe554f45b99_b.jpg&quot; data-rawwidth=&quot;1024&quot; data-rawheight=&quot;796&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1024&quot; data-original=&quot;https://pic2.zhimg.com/v2-ba5f0f05742b757691f5ffe554f45b99_r.jpg&quot;&gt;&lt;p&gt;这个牌子之前有三款眼影，分别是Nubian， Nubian 2和Masquerade。前几天出了一款新的Saharan，马上就被疯抢一空了。他们家虽然很小众，但是眼影的质量真是杠杠的。一点儿不输给大牌的质量，或者说无论是显色度还是粉质的细腻度，都优于大牌。&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-47e92c087accd0d26477549bbac4f5b6_b.jpg&quot; data-rawwidth=&quot;768&quot; data-rawheight=&quot;768&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;768&quot; data-original=&quot;https://pic3.zhimg.com/v2-47e92c087accd0d26477549bbac4f5b6_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-b90d2371b50f53211594886340e15b92_b.jpg&quot; data-rawwidth=&quot;3024&quot; data-rawheight=&quot;3024&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3024&quot; data-original=&quot;https://pic3.zhimg.com/v2-b90d2371b50f53211594886340e15b92_r.jpg&quot;&gt;&lt;p&gt;最推荐的是Nubian这一盘，因为色彩比较偏大地色系，从浅到深，从雾面到闪片，从日常到晚宴这一盘都可以搞定。而且颜色偏暖，更适合亚洲人偏黄的皮肤。&lt;/p&gt;&lt;br&gt;&lt;p&gt;2. Morphe     &lt;/p&gt;&lt;p&gt;购买网址：&lt;a href=&quot;//link.zhihu.com/?target=https%3A//www.morphebrushes.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Morphe Cosmetics . Brushes . Brush Sets&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-8172c151eed7320517a8f230615e2dcc_b.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic1.zhimg.com/v2-8172c151eed7320517a8f230615e2dcc_r.jpg&quot;&gt;&lt;p&gt;这是一个油管上还多美妆博主强推的牌子，我试了之后觉得确实物超所值。他们家的化妆刷非常平价，但是质量和种类都让我很惊讶，个人感觉是不输sigma的刷子的，而且品种非常多样，什么类型的刷子基本上都可以找到。&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-a18891634d066ea39da7f7965998f742_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;562&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;https://pic3.zhimg.com/v2-a18891634d066ea39da7f7965998f742_r.jpg&quot;&gt;&lt;p&gt;而他们家的眼影质量也是显色度超高，盘超大，价格超值，35F是我一直以来的挚爱。最近和油管知名美妆博主Kathleen Lights合作的那盘也很美貌，相当实用。&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-a78f385e08627418fc8705e37636cc5e_b.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/v2-a78f385e08627418fc8705e37636cc5e_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;3.  Ofra     &lt;/p&gt;&lt;p&gt;购买网址：&lt;a href=&quot;//link.zhihu.com/?target=https%3A//www.ofracosmetics.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;OFRA Cosmetics | The Best Professional Makeup &amp;amp;amp;amp; Skin Care&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;他们家有最有名的是液体唇膏和高光，也是被很多博主强推的。转盘式的高光盘比一大块只有一个颜色的来的经济实惠多了。&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-a4b84118838b86d509d6f778dfcea6b6_b.jpg&quot; data-rawwidth=&quot;820&quot; data-rawheight=&quot;410&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;820&quot; data-original=&quot;https://pic3.zhimg.com/v2-a4b84118838b86d509d6f778dfcea6b6_r.jpg&quot;&gt;&lt;p&gt;他们家的液体唇膏色系实在是太广了，光一个裸色系就有这么多种不同的选择，简直是逼死选择困难症，好在价格没有到大牌这么贵，购买压力相对比较小。&lt;/p&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-e712d0ffead6b0f8290d2ef366ee6ae3_b.jpg&quot; data-rawwidth=&quot;2211&quot; data-rawheight=&quot;2211&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2211&quot; data-original=&quot;https://pic4.zhimg.com/v2-e712d0ffead6b0f8290d2ef366ee6ae3_r.jpg&quot;&gt;&lt;p&gt;关键是唇膏的颜色真是太广了，什么猎奇的颜色都有，还滋润上嘴不干，持久力也不错，属于性价比极高的产品。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-f77ece27d1b02b9f9f8d6e2f68d79399_b.jpg&quot; data-rawwidth=&quot;1936&quot; data-rawheight=&quot;1089&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1936&quot; data-original=&quot;https://pic2.zhimg.com/v2-f77ece27d1b02b9f9f8d6e2f68d79399_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;4.  Zoeva&lt;/p&gt;&lt;p&gt;购买网址：&lt;a href=&quot;//link.zhihu.com/?target=https%3A//www.zoevacosmetics.com/america1/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;ZOEVA&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-9237108c38de0e7df538e6cf2b2ee00e_b.jpg&quot; data-rawwidth=&quot;1200&quot; data-rawheight=&quot;1200&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1200&quot; data-original=&quot;https://pic3.zhimg.com/v2-9237108c38de0e7df538e6cf2b2ee00e_r.jpg&quot;&gt;&lt;p&gt;这是一个德国的牌子，起家是做化妆刷的。他们家的化妆刷真的是太好用了！虽然价格相对上面的要相对贵一点，但是质量是真的好，毛质非常非常细腻，而且作为一个颜控，真的很难不被这么美貌的刷子吸引，就连装刷子的小袋子都这么好看。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-1592f7ca7e9b481572d52961ea542949_b.jpg&quot; data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1080&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic2.zhimg.com/v2-1592f7ca7e9b481572d52961ea542949_r.jpg&quot;&gt;&lt;p&gt;后来他们家的眼影也算是异军突起，有一款叫做Caramel Melange的盘各种被卖空，枪手得不得了，偏橙色系的眼影很适合夏天。粉质细腻不飞粉，上色度也很棒，我最近被这些独立品牌搞得都不想买专柜牌子的眼影了。&lt;/p&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-b544898645348a12c9b31f67bd6b965f_b.jpg&quot; data-rawwidth=&quot;1600&quot; data-rawheight=&quot;1065&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1600&quot; data-original=&quot;https://pic4.zhimg.com/v2-b544898645348a12c9b31f67bd6b965f_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-913262e832c54aaa84b3da8cf740d58d_b.png&quot; data-rawwidth=&quot;1300&quot; data-rawheight=&quot;1357&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1300&quot; data-original=&quot;https://pic2.zhimg.com/v2-913262e832c54aaa84b3da8cf740d58d_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;5. Jouer&lt;/p&gt;&lt;p&gt;购买网址：&lt;a href=&quot;//link.zhihu.com/?target=https%3A//www.jouercosmetics.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Jouer Cosmetics - FREE shipping on domestic orders $35+&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-db01d29bc236d7965e83a9fa9fa6839d_b.png&quot; data-rawwidth=&quot;740&quot; data-rawheight=&quot;275&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;740&quot; data-original=&quot;https://pic2.zhimg.com/v2-db01d29bc236d7965e83a9fa9fa6839d_r.png&quot;&gt;&lt;p&gt;这个牌子的腮红眼影还有唇彩都可以像上图那样组合起来，这也是我当初买的时候觉得特别好玩儿的一点，各种排列组合还挺方便的。而且他们家的腮红颜色特别得我的心，一块Bloom和一块Blossom基本是我最常用的腮红了。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-28a6b9476eec9946b758c39cfcaf5f59_b.jpg&quot; data-rawwidth=&quot;480&quot; data-rawheight=&quot;480&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;https://pic2.zhimg.com/v2-28a6b9476eec9946b758c39cfcaf5f59_r.jpg&quot;&gt;&lt;p&gt;而且他们家的液体唇膏也是我最爱之一，虽然没有太多夸张的颜色可以选择， 持久力也只能算中等，但是因为味道实在太好闻了，我没办法抵抗。他们家的唇膏有一种香草奶油冰淇淋的香味，涂到嘴唇上简直想吃下去（不要）。&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-b515f6e05590cdd78c7fc7343c89e2a8_b.jpg&quot; data-rawwidth=&quot;1242&quot; data-rawheight=&quot;1243&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1242&quot; data-original=&quot;https://pic1.zhimg.com/v2-b515f6e05590cdd78c7fc7343c89e2a8_r.jpg&quot;&gt;&lt;p&gt;而且Joeur的液体唇膏里有几只比较特殊的lip topper，顾名思义是可以涂在一般的唇膏上的，可以增加一点金属质感，让嘴唇看上去更丰盈，嘟嘟的。&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-66a621a71c40d647bf33eaac75646e40_b.jpg&quot; data-rawwidth=&quot;630&quot; data-rawheight=&quot;500&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;630&quot; data-original=&quot;https://pic1.zhimg.com/v2-66a621a71c40d647bf33eaac75646e40_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;6.  ColourPop &lt;/p&gt;&lt;p&gt;购买网址：&lt;a href=&quot;//link.zhihu.com/?target=https%3A//colourpop.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;FREE shipping on orders of $30 or more within US&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-bcec31b08ec5f077a808790e7e20d549_b.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/v2-bcec31b08ec5f077a808790e7e20d549_r.jpg&quot;&gt;&lt;p&gt;我最近是ColourPop的脑残粉，因为他们家的所有产品几乎都是5刀，5刀5刀，统统5刀。买到根本停不下来。当然除了非常亲民的价格，高品质也是我下了一单又一单的原因。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-f2728704b37419c04b30764e196d89c1_b.jpg&quot; data-rawwidth=&quot;538&quot; data-rawheight=&quot;536&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;538&quot; data-original=&quot;https://pic2.zhimg.com/v2-f2728704b37419c04b30764e196d89c1_r.jpg&quot;&gt;&lt;p&gt;他们家所有的眼影，高光，腮红，修容都是这样一个一个分装的小圆盒子里，而且无论是什么质地的眼影，摸上去的质感都有点像海绵，软软的，很奇妙的触感。而且单色眼影的选择范围太广了，不仅如此，几乎每个月还在出新的颜色，有一种誓把世界上所有颜色出尽的气势。&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-d0df38a207ba6f1857068d0f4f0d064e_b.jpg&quot; data-rawwidth=&quot;2844&quot; data-rawheight=&quot;2844&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2844&quot; data-original=&quot;https://pic3.zhimg.com/v2-d0df38a207ba6f1857068d0f4f0d064e_r.jpg&quot;&gt;&lt;p&gt;我还非常喜欢他们家的唇膏，Lippie，也是5刀一只，显色又不干，颜色选择又多又美。是我很多大牌唇膏的完美替代品，得，这下专柜的唇膏也不用买了。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-e2ed90e92e4be6b5503357f049170e5d_b.jpg&quot; data-rawwidth=&quot;750&quot; data-rawheight=&quot;585&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;750&quot; data-original=&quot;https://pic2.zhimg.com/v2-e2ed90e92e4be6b5503357f049170e5d_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;7.  Makeup Geek&lt;/p&gt;&lt;p&gt;购买网址：&lt;a href=&quot;//link.zhihu.com/?target=https%3A//www.makeupgeek.com/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Makeup Video Tutorials, Tips, Shop &amp;amp;amp; More! - Makeup Geek&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-eccc373e3217d5392d8cc271b88eca83_b.jpg&quot; data-rawwidth=&quot;1310&quot; data-rawheight=&quot;756&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1310&quot; data-original=&quot;https://pic4.zhimg.com/v2-eccc373e3217d5392d8cc271b88eca83_r.jpg&quot;&gt;&lt;p&gt;港真，有了makeup geek的眼影，为什么还要买MAC的眼影呢？无论是质量，价格还是选择面来说，都是makeup geek的完胜。他们家的大部分眼影比较朴实，都是没有包装的单独一块一块出售的，你完全可以买一个有名的空Z-palette，把你喜欢的眼影组成自己独特的眼影盘（反正我已经有三大盘了……）&lt;/p&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-6805abdd007723d3b03c88d0b9fc9dc7_b.jpg&quot; data-rawwidth=&quot;736&quot; data-rawheight=&quot;721&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;736&quot; data-original=&quot;https://pic4.zhimg.com/v2-6805abdd007723d3b03c88d0b9fc9dc7_r.jpg&quot;&gt;&lt;p&gt;因为眼影太多了，我就推荐两个系列的，一个是他们家的偏光眼影系列，也就是说每个眼影中有两个颜色交汇在一起，不同的灯光和角度会折射不一样的颜色，美貌度up up，还有配套的眼部亮片，太美了。&lt;/p&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-a316bed0b7395d89ff53c33bb7fe526b_b.png&quot; data-rawwidth=&quot;650&quot; data-rawheight=&quot;400&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;650&quot; data-original=&quot;https://pic4.zhimg.com/v2-a316bed0b7395d89ff53c33bb7fe526b_r.png&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-a4cbe24ae34eab75eb149fb75c072d57_b.jpg&quot; data-rawwidth=&quot;760&quot; data-rawheight=&quot;386&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;760&quot; data-original=&quot;https://pic4.zhimg.com/v2-a4cbe24ae34eab75eb149fb75c072d57_r.jpg&quot;&gt;&lt;p&gt;第二个系列就是我最爱最爱的Foiled Eyeshadow系列了，这一系列的眼影有着比一般眼影高的油脂成分，每一款都是亮片的效果，多出的油脂可以更好的让眼影在眼皮上延展和晕染，显色度真是好的一个吓人！&lt;/p&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-b2e17f1c0e6b1a46a138710b1da8f377_b.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;640&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic4.zhimg.com/v2-b2e17f1c0e6b1a46a138710b1da8f377_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;好了我就先给各位种草到这里吧，其实还有几个比较小众的牌子，如果大家还嫌种草不够的话，下次我再来更新吧~&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/v2-8f8dd4e36147605d02d28b60ac55eb44_200x112.jpg" data-rawwidth="1080" data-rawheight="733" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-8f8dd4e36147605d02d28b60ac55eb44_r.jpg">
+我来推荐几个欧美相对小众，不是Drugstore里卖的，但是价格又比较平民的牌子。最近买疯了，化妆柜都就快塞爆了……1. Juvias Place 购买网址：<a href="//link.zhihu.com/?target=https%3A//www.juviasplace.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Juvia’s Place <i class="icon-external"></i></a> 这个牌子之前有三款眼影，分别是Nubian， Nubian 2和Masquerade。前几天出了一款新的Saharan，…
+
+<a href="/question/37111755/answer/144144863" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/37111755/answer/144144863">发布于 昨天 11:21</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7051601"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>35 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="10">
+<h2><a class="question_link" href="/question/37855026/answer/144211757" target="_blank" data-id="7349233" data-za-element-name="Title">
+哪些第一眼就感觉到震撼的图片？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53215387"
+data-atoken="144211757"
+data-collapsed="0"
+data-created="1486114815"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/37855026/answer/144211757">
+<meta itemprop="answer-id" content="53215387">
+<meta itemprop="answer-url-token" content="144211757">
+<a class="zg-anchor-hidden" name="answer-53215387"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>698</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">698</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$peteryang"
+target="_blank" href="/people/peteryang"
+>杨彼得</a></span><span title="某品牌首席扯淡官" class="bio">
+某品牌首席扯淡官
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="698">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">698</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7349233" data-action="/answer/content" data-author-name="杨彼得" data-entry-url="/question/37855026/answer/144211757">
+
+<textarea hidden class="content">&lt;p&gt;&lt;b&gt;触动震撼我们心灵的，有灾难、贫穷、疾病、死亡、寂寞。&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;一位儿童在父亲的葬礼上拉起小提琴。&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-fe6ba72f82c4d0c752b9484b6d013f4d_b.jpg&quot; data-rawwidth=&quot;610&quot; data-rawheight=&quot;610&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;610&quot; data-original=&quot;https://pic2.zhimg.com/v2-fe6ba72f82c4d0c752b9484b6d013f4d_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;男孩企图拉起烂醉在街上的父亲。&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-6fc15969da60f7cd84f7cfb37529ab7d_b.jpg&quot; data-rawwidth=&quot;610&quot; data-rawheight=&quot;457&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;610&quot; data-original=&quot;https://pic2.zhimg.com/v2-6fc15969da60f7cd84f7cfb37529ab7d_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一对父子的3次合影...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-fce49a3a2eaf8678e305216aa3eb289a_b.jpg&quot; data-rawwidth=&quot;625&quot; data-rawheight=&quot;296&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;625&quot; data-original=&quot;https://pic3.zhimg.com/v2-fce49a3a2eaf8678e305216aa3eb289a_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;这名10岁的孩子每天要在兵工厂工作10个小时之久...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-385351d1c8dd6d234c7fef665e78139a_b.jpg&quot; data-rawwidth=&quot;1024&quot; data-rawheight=&quot;674&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1024&quot; data-original=&quot;https://pic3.zhimg.com/v2-385351d1c8dd6d234c7fef665e78139a_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一位癌症儿童在镜子上为自己画上头发...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-45414012c330534a16625e0387009fc4_b.jpg&quot; data-rawwidth=&quot;625&quot; data-rawheight=&quot;525&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;625&quot; data-original=&quot;https://pic1.zhimg.com/v2-45414012c330534a16625e0387009fc4_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一条警犬在自己主人的棺椁前哀鸣...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-2415ff41f524c9e5fa191ef6b7a79899_b.jpg&quot; data-rawwidth=&quot;990&quot; data-rawheight=&quot;660&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;990&quot; data-original=&quot;https://pic2.zhimg.com/v2-2415ff41f524c9e5fa191ef6b7a79899_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;孩子在被摧毁的废墟前抱住妈妈的大腿...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-bf700fc6c90a826ce91ab553be3017e1_b.jpg&quot; data-rawwidth=&quot;950&quot; data-rawheight=&quot;634&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;950&quot; data-original=&quot;https://pic2.zhimg.com/v2-bf700fc6c90a826ce91ab553be3017e1_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一位父亲紧紧抱住冲废墟中被解救而出来的女儿...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-8b29d52a1c10ed18e26f9624ec74ca26_b.jpg&quot; data-rawwidth=&quot;572&quot; data-rawheight=&quot;411&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;572&quot; data-original=&quot;https://pic3.zhimg.com/v2-8b29d52a1c10ed18e26f9624ec74ca26_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一位德国士兵在阿富汗战场静静地庆祝自己的生日&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-1c7d9a27db39a9de02ae563217744a27_b.jpg&quot; data-rawwidth=&quot;625&quot; data-rawheight=&quot;415&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;625&quot; data-original=&quot;https://pic4.zhimg.com/v2-1c7d9a27db39a9de02ae563217744a27_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一位黑奴父亲看着自己5岁女儿被砍下的一只手和一只脚。&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-e7418ec9d7b65016cb833ecb80f4a68c_b.jpg&quot; data-rawwidth=&quot;1280&quot; data-rawheight=&quot;721&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic1.zhimg.com/v2-e7418ec9d7b65016cb833ecb80f4a68c_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一位妇女企图阻挡住进入家园的警察&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-e59615bffce6e6f5ecc82e3ecff2f0c2_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;420&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;https://pic3.zhimg.com/v2-e59615bffce6e6f5ecc82e3ecff2f0c2_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;众人正在拍照时，一位男子突然跳下大桥。&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-97c7ddc27d39a153c4a5ac08d2006065_b.jpg&quot; data-rawwidth=&quot;990&quot; data-rawheight=&quot;783&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;990&quot; data-original=&quot;https://pic2.zhimg.com/v2-97c7ddc27d39a153c4a5ac08d2006065_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一位姐姐给自己的弟弟画了一张床，希望弟弟能够睡得更好一点...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-2325b98923e9a65904baa4323af3504f_b.png&quot; data-rawwidth=&quot;480&quot; data-rawheight=&quot;447&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;https://pic4.zhimg.com/v2-2325b98923e9a65904baa4323af3504f_r.png&quot;&gt;&lt;p&gt;&lt;b&gt;然而，生活中的真情、坚持、爱心，更让我们震撼。&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;一位士兵接过铁丝网对面的抗议者递过来的花儿...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-d20b508ce4862dfd8f8e6738c3957485_b.jpg&quot; data-rawwidth=&quot;950&quot; data-rawheight=&quot;583&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;950&quot; data-original=&quot;https://pic2.zhimg.com/v2-d20b508ce4862dfd8f8e6738c3957485_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一位残疾儿童亲吻自己的狗...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-eb55aaf1e67877234316fb1caacf96c2_b.jpg&quot; data-rawwidth=&quot;625&quot; data-rawheight=&quot;512&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;625&quot; data-original=&quot;https://pic3.zhimg.com/v2-eb55aaf1e67877234316fb1caacf96c2_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;孩子企图给砍下的羊头喂水，希望它活过来...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-52f2e56fce2daa38573dbd26e66ac819_b.jpg&quot; data-rawwidth=&quot;320&quot; data-rawheight=&quot;320&quot; class=&quot;content_image&quot; width=&quot;320&quot;&gt;&lt;ul&gt;&lt;li&gt;一对夫妇88年后穿上他们的婚纱...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-8e6a6207082f542811a2a67cf2db8653_b.jpg&quot; data-rawwidth=&quot;625&quot; data-rawheight=&quot;1018&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;625&quot; data-original=&quot;https://pic4.zhimg.com/v2-8e6a6207082f542811a2a67cf2db8653_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-eb61e1456c60cd813ab03515a9aa84f8_b.jpg&quot; data-rawwidth=&quot;610&quot; data-rawheight=&quot;381&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;610&quot; data-original=&quot;https://pic1.zhimg.com/v2-eb61e1456c60cd813ab03515a9aa84f8_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;战友们帮助一名战士伸出窗外亲吻他的女友...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-47f0f1388a57a2f41601db2a1e247230_b.jpg&quot; data-rawwidth=&quot;880&quot; data-rawheight=&quot;1124&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;880&quot; data-original=&quot;https://pic1.zhimg.com/v2-47f0f1388a57a2f41601db2a1e247230_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一位孩子俯下身子让狗儿喝上清水...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-368744441bd2fe82b8255580ca20471d_b.jpg&quot; data-rawwidth=&quot;700&quot; data-rawheight=&quot;876&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;700&quot; data-original=&quot;https://pic2.zhimg.com/v2-368744441bd2fe82b8255580ca20471d_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;肯尼亚的护林员与父母被猎杀了的犀牛孤儿睡在一起...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-c481b6b1a455bd9dd6a1400d13f5bef8_b.jpg&quot; data-rawwidth=&quot;960&quot; data-rawheight=&quot;638&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;https://pic1.zhimg.com/v2-c481b6b1a455bd9dd6a1400d13f5bef8_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;一名警察脱下自己的毛衣给一位赤脚的无家可归者保暖...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-01d2d4ea1f63319cc945ac70267d2691_b.jpg&quot; data-rawwidth=&quot;564&quot; data-rawheight=&quot;1381&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;564&quot; data-original=&quot;https://pic2.zhimg.com/v2-01d2d4ea1f63319cc945ac70267d2691_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;这位老者将自己的鞋子赠送给这位流浪儿，他当场泪奔...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-018ab55916f36db100b49a616ae0f122_b.jpg&quot; data-rawwidth=&quot;620&quot; data-rawheight=&quot;417&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;620&quot; data-original=&quot;https://pic3.zhimg.com/v2-018ab55916f36db100b49a616ae0f122_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;二战空袭过后，一位少年在书店静静地看着书...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-795db769bcb9e0b0472a388b0d504767_b.jpg&quot; data-rawwidth=&quot;572&quot; data-rawheight=&quot;428&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;572&quot; data-original=&quot;https://pic4.zhimg.com/v2-795db769bcb9e0b0472a388b0d504767_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;众人将一名坐在轮椅上的粉丝高高举起，让他能够看清表演...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-910d5c890a0ebc82ea7fdb1116838e13_b.jpg&quot; data-rawwidth=&quot;620&quot; data-rawheight=&quot;930&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;620&quot; data-original=&quot;https://pic4.zhimg.com/v2-910d5c890a0ebc82ea7fdb1116838e13_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;2010年12月，开罗发生了针对基督徒的爆炸案，一群基督教徒，手挽手，保护正在做礼拜的穆斯林信徒。&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-a809319f6eac83375f00ab0d0eb40d66_b.jpg&quot; data-rawwidth=&quot;700&quot; data-rawheight=&quot;499&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;700&quot; data-original=&quot;https://pic3.zhimg.com/v2-a809319f6eac83375f00ab0d0eb40d66_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;而同样的，穆斯林信徒们，也手挽手，一起保护起基督教堂...&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-332a8178ff067bab744bb9baf460f6f1_b.jpg&quot; data-rawwidth=&quot;480&quot; data-rawheight=&quot;874&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;https://pic2.zhimg.com/v2-332a8178ff067bab744bb9baf460f6f1_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;全班同学剃光头表示对化疗中的同学的支持&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-e3b8ebf06303f55b444caf3654c375ad_b.jpg&quot; data-rawwidth=&quot;620&quot; data-rawheight=&quot;953&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;620&quot; data-original=&quot;https://pic2.zhimg.com/v2-e3b8ebf06303f55b444caf3654c375ad_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;1890年在相机前亲密的夫妇&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-980675f02076cc1e96dfa6082c049dd3_b.jpg&quot; data-rawwidth=&quot;700&quot; data-rawheight=&quot;818&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;700&quot; data-original=&quot;https://pic4.zhimg.com/v2-980675f02076cc1e96dfa6082c049dd3_r.jpg&quot;&gt;&lt;ul&gt;&lt;li&gt;孩子快乐地弹奏，让自己的狗儿更加的快乐&lt;/li&gt;&lt;/ul&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-47dc96aa0edecd147329706b480e069e_b.jpg&quot; data-rawwidth=&quot;700&quot; data-rawheight=&quot;846&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;700&quot; data-original=&quot;https://pic3.zhimg.com/v2-47dc96aa0edecd147329706b480e069e_r.jpg&quot;&gt;&lt;p&gt;最后，看看这张旅行者1号探测器从60亿公里外拍摄的照片，箭头所指是我们的地球...&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-fb932a01b8e412125c18293478195241_b.jpg&quot; data-rawwidth=&quot;572&quot; data-rawheight=&quot;358&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;572&quot; data-original=&quot;https://pic2.zhimg.com/v2-fb932a01b8e412125c18293478195241_r.jpg&quot;&gt;&lt;p&gt;地球是如此的渺小，请珍惜我们的一切。&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic2.zhimg.com/v2-fe6ba72f82c4d0c752b9484b6d013f4d_200x112.jpg" data-rawwidth="610" data-rawheight="610" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-fe6ba72f82c4d0c752b9484b6d013f4d_r.jpg">
+<b>触动震撼我们心灵的，有灾难、贫穷、疾病、死亡、寂寞。</b>一位儿童在父亲的葬礼上拉起小提琴。男孩企图拉起烂醉在街上的父亲。一对父子的3次合影...这名10岁的孩子每天要在兵工厂工作10个小时之久...一位癌症儿童在镜子上为自己画上头发...一条警犬在自己主人…
+
+<a href="/question/37855026/answer/144211757" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 17:40" target="_blank" href="/question/37855026/answer/144211757">编辑于 昨天 17:40</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7349233"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>45 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>

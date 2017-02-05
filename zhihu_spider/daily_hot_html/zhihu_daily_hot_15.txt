@@ -1,0 +1,636 @@
+<div class="explore-feed feed-item" data-offset="16">
+<h2><a class="question_link" href="/question/47323562/answer/144131665" target="_blank" data-id="11143765" data-za-element-name="Title">
+你们的男朋友都给你们拍过哪些好看的照片/骗？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53183334"
+data-atoken="144131665"
+data-collapsed="0"
+data-created="1486087380"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47323562/answer/144131665">
+<meta itemprop="answer-id" content="53183334">
+<meta itemprop="answer-url-token" content="144131665">
+<a class="zg-anchor-hidden" name="answer-53183334"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>473</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">473</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$chen-bao-yu-95"
+target="_blank" href="/people/chen-bao-yu-95"
+>我不是晓雨陈同学</a></span><span title="dreamer&amp;traveler" class="bio">
+dreamer&amp;traveler
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="473">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">473</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11143765" data-action="/answer/content" data-author-name="我不是晓雨陈同学" data-entry-url="/question/47323562/answer/144131665">
+
+<textarea hidden class="content">曾经问过他，感觉他给我拍的照片总是和别人拍的不一样，是不是我的长相变了？&lt;br&gt;他想了想说，可能因为我拍你的时候，你的眼里有光。&lt;br&gt;（嗯，我白了他一眼，这个回答很可以，很杀马特哈哈）&lt;br&gt;不过可能因为对彼此太熟悉了解了，他也拍过我很多黑照，所以在他的镜头下，我特别自然，放松。&lt;br&gt;啊怎么说呢，说真的，我觉得好的照片，可能是需要一点爱在里面的。&lt;br&gt;俗话说得好，只有在爱你的人镜头下，才能拍下你最傻的时刻。&lt;br&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;1920&quot; src=&quot;https://pic1.zhimg.com/v2-a05b25baf3f1e1b40d3579b59ba0397c_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic1.zhimg.com/v2-a05b25baf3f1e1b40d3579b59ba0397c_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;1920&quot; src=&quot;https://pic1.zhimg.com/v2-0147b0ca3cfc44df1628f3c105e82cbc_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic1.zhimg.com/v2-0147b0ca3cfc44df1628f3c105e82cbc_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1632&quot; data-rawheight=&quot;2448&quot; src=&quot;https://pic2.zhimg.com/v2-0b1acfc91c301ce13006af0477b7bb59_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1632&quot; data-original=&quot;https://pic2.zhimg.com/v2-0b1acfc91c301ce13006af0477b7bb59_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic3.zhimg.com/v2-900fd9d19535353d785641cccc0197a2_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic3.zhimg.com/v2-900fd9d19535353d785641cccc0197a2_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic2.zhimg.com/v2-3c65b73fc2ec13c46e9d4704a4008c41_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic2.zhimg.com/v2-3c65b73fc2ec13c46e9d4704a4008c41_r.jpg&quot;&gt;西湖边&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic3.zhimg.com/v2-10cead73cbcccfe393f3564dbca1c0f2_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic3.zhimg.com/v2-10cead73cbcccfe393f3564dbca1c0f2_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic1.zhimg.com/v2-bc4f8fc0a88bd2ac93ce1eabcbbecda4_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic1.zhimg.com/v2-bc4f8fc0a88bd2ac93ce1eabcbbecda4_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic4.zhimg.com/v2-45de92f1bc7383669166afcdeadf7867_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic4.zhimg.com/v2-45de92f1bc7383669166afcdeadf7867_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;1920&quot; src=&quot;https://pic3.zhimg.com/v2-3d7981b6f7476ef426f07d218666cba2_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic3.zhimg.com/v2-3d7981b6f7476ef426f07d218666cba2_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic1.zhimg.com/v2-1bcdd6310ecda99dad385a5e198724f0_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic1.zhimg.com/v2-1bcdd6310ecda99dad385a5e198724f0_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic3.zhimg.com/v2-2a4c1fcb46bf7a71a5afe3989acf43ea_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic3.zhimg.com/v2-2a4c1fcb46bf7a71a5afe3989acf43ea_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;1920&quot; src=&quot;https://pic3.zhimg.com/v2-fbc43ddb5671f4e7035172f92fcb310a_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic3.zhimg.com/v2-fbc43ddb5671f4e7035172f92fcb310a_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;1920&quot; src=&quot;https://pic4.zhimg.com/v2-6d44b6a05315eb675e2b86cc1318b093_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic4.zhimg.com/v2-6d44b6a05315eb675e2b86cc1318b093_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic2.zhimg.com/v2-90f5c7cbba21c92b0d58da9e821847b5_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic2.zhimg.com/v2-90f5c7cbba21c92b0d58da9e821847b5_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;853&quot; src=&quot;https://pic4.zhimg.com/v2-8e08b3ca8566cd1d6c4b14a5b9babd07_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic4.zhimg.com/v2-8e08b3ca8566cd1d6c4b14a5b9babd07_r.jpg&quot;&gt;&lt;img data-rawwidth=&quot;853&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic2.zhimg.com/v2-0549740213cf4db16707431888d0ca41_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;853&quot; data-original=&quot;https://pic2.zhimg.com/v2-0549740213cf4db16707431888d0ca41_r.jpg&quot;&gt;&lt;br&gt;城西银泰的花房，每次路过都会合张影&lt;br&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;853&quot; src=&quot;https://pic4.zhimg.com/v2-80b52d1968d326f401ffca94325250f3_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic4.zhimg.com/v2-80b52d1968d326f401ffca94325250f3_r.jpg&quot;&gt;他说我戴这个尤达大师的帽子很可爱（傻）&lt;br&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;853&quot; src=&quot;https://pic3.zhimg.com/v2-02e2b48f7a33e96fb7dfb7243bb60e7a_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic3.zhimg.com/v2-02e2b48f7a33e96fb7dfb7243bb60e7a_r.jpg&quot;&gt;圣诞节，刚出院的他拄着拐，说之前答应要陪我过节的，一定要兑现。&lt;br&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;853&quot; src=&quot;https://pic2.zhimg.com/v2-5a1c717c862b4e57e0f04ebc49c43511_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic2.zhimg.com/v2-5a1c717c862b4e57e0f04ebc49c43511_r.jpg&quot;&gt;去医院探病，他拿着新买的拍立得一定要给我拍照（然而曝光过度），不过我还挺喜欢的哈哈&lt;br&gt;&lt;img data-rawwidth=&quot;960&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic1.zhimg.com/v2-a640f259fb07566b42dba14770465f38_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;960&quot; data-original=&quot;https://pic1.zhimg.com/v2-a640f259fb07566b42dba14770465f38_r.jpg&quot;&gt;龙井探路，相机滑手，不小心摁下的快门。那一刻我正好在看着他笑。&lt;br&gt;&lt;img data-rawwidth=&quot;855&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic3.zhimg.com/v2-78a7ddaa6e3cc36cad02338c4ac09aee_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;855&quot; data-original=&quot;https://pic3.zhimg.com/v2-78a7ddaa6e3cc36cad02338c4ac09aee_r.jpg&quot;&gt;在江边喝酒的夜晚，夏风，酒精，想要热爱全人类。&lt;br&gt;&lt;img data-rawwidth=&quot;1280&quot; data-rawheight=&quot;855&quot; src=&quot;https://pic4.zhimg.com/v2-528b7f82205fba5493c27c29b5f3b36f_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1280&quot; data-original=&quot;https://pic4.zhimg.com/v2-528b7f82205fba5493c27c29b5f3b36f_r.jpg&quot;&gt;他说特别喜欢我露出牙齿的大笑，看着心都化了。我觉得我可能对露齿笑这个概念有点误解&lt;br&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic3.zhimg.com/v2-1ee87e1e7af83647673799a6dff99856_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic3.zhimg.com/v2-1ee87e1e7af83647673799a6dff99856_r.jpg&quot;&gt;刚在一起的时候，因为他很喜欢捣鼓摄影器材，所以送了他一条cam-in的相机背带，附言：希望能一起记录下很多美好的瞬间。&lt;br&gt;&lt;br&gt;&lt;br&gt;合照虐狗这种事，都放微博里了哈哈。&lt;br&gt;&lt;img data-rawwidth=&quot;1920&quot; data-rawheight=&quot;1280&quot; src=&quot;https://pic4.zhimg.com/v2-6db4f9fda7a6114d4db798ef0479e563_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1920&quot; data-original=&quot;https://pic4.zhimg.com/v2-6db4f9fda7a6114d4db798ef0479e563_r.jpg&quot;&gt;感谢摄影师，这些照片基本全都是男朋友骑车摔伤以后，拄着拐杖给我拍的。所以我们有理由相信，等他腿好了一定能拍出更傻，不对……更好看的照片！对不对？！！</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img data-rawwidth="1280" data-rawheight="1920" src="https://pic1.zhimg.com/v2-a05b25baf3f1e1b40d3579b59ba0397c_200x112.jpg" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-a05b25baf3f1e1b40d3579b59ba0397c_r.jpg">
+曾经问过他，感觉他给我拍的照片总是和别人拍的不一样，是不是我的长相变了？ 他想了想说，可能因为我拍你的时候，你的眼里有光。 （嗯，我白了他一眼，这个回答很可以，很杀马特哈哈） 不过可能因为对彼此太熟悉了解了，他也拍过我很多黑照，所以在他的镜…
+
+<a href="/question/47323562/answer/144131665" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 10:03" target="_blank" href="/question/47323562/answer/144131665">编辑于 00:58</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11143765"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>179 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="17">
+<h2><a class="question_link" href="/question/55315729/answer/144118738" target="_blank" data-id="14346306" data-za-element-name="Title">
+有哪些有用的长高特效药？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53178176"
+data-atoken="144118738"
+data-collapsed="0"
+data-created="1486080201"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/55315729/answer/144118738">
+<meta itemprop="answer-id" content="53178176">
+<meta itemprop="answer-url-token" content="144118738">
+<a class="zg-anchor-hidden" name="answer-53178176"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>585</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">585</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$er-shu-5"
+target="_blank" href="/people/er-shu-5"
+>二叔</a></span><span title="上海土著，美国马里兰大学经济，统计本科在读" class="bio">
+上海土著，美国马里兰大学经济，统计本科…
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="585">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">585</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="14346306" data-action="/answer/content" data-author-name="二叔" data-entry-url="/question/55315729/answer/144118738">
+
+<textarea hidden class="content">注射用生长激素！&lt;br&gt;（感谢那么多人参与讨论，如果有需求的，还请先咨询正规医院，遵循医嘱，这里仅仅是我的个人经历）&lt;br&gt;从小都是班里个子最矮的那一个，教室里永远坐在前两排。家里一直担心我的身高问题，去了上海的一家三甲医院测量生长激素浓度和骨龄，测量结果生长激素分泌不足，建议注射生长激素。&lt;br&gt;&lt;br&gt;当时小学三年级的我并不情愿，因为这意味着我每天都要打针。激素是需要冷冻的，家里为此特地买了一个小冰箱储存药品。为了配合药效，每天尽可能多地跳绳，睡前在自己的肚子上，手臂两侧，大腿两侧轮流注射激素，每天打一针，打了之后长高速度明显加快了，就这样连续不断地打了六年，从2005年打到了2010年，等到停药的时候，我的身高是183cm，体重70kg。&lt;br&gt;&lt;br&gt;我很庆幸家里的条件允许，我身边那些通过所谓食疗，喝牛奶，吃钙片的长高疗法，统统被证明是精神安慰疗法。会有人说生长激素有副作用，那你需要进一步了解一下，注射的激素和你脑垂体分泌的生长激素完全一样，身体自身分泌的东西，我想不出能有什么副作用，但是本着科学严谨的态度，不排除可能存在的副作用。阿根廷梅西当时也是生长激素缺乏，同样打这个针，有兴趣的朋友可以去了解一下。&lt;br&gt;&lt;br&gt;这里谈一下费用问题，生长激素的价格是按照剂量来算，体重越大，花费越大，刚开始打的时候，一天一针98元，后来随着升高不断地长高，体重增加，最后一年打的是188一针。很多打激素的家庭都是一周打六天歇一天，主要原因是费用巨大难以承受。家里做出的决定是给我连续不断地天天打，一定要在骨骺闭合前长到自己理想的身高，在那之后生长激素也没用了。长高的代价是巨大的，大到身边的一些朋友即使查出了生长激素缺乏，也不愿意相信有这种疗法，大部分家长的反应竟然是医生骗人骗钱。对此我完全表示理解。是的！现实就是这么残酷，钱是可以买来身高的！&lt;br&gt;&lt;br&gt;183cm的身高在上海算是比较高的了，在美国大学校园里也算是中上的水准了，真心感谢家里的支持，希望这篇文章可以帮助更多的人。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+注射用生长激素！ （感谢那么多人参与讨论，如果有需求的，还请先咨询正规医院，遵循医嘱，这里仅仅是我的个人经历） 从小都是班里个子最矮的那一个，教室里永远坐在前两排。家里一直担心我的身高问题，去了上海的一家三甲医院测量生长激素浓度和骨龄，测量…
+
+<a href="/question/55315729/answer/144118738" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 08:03" target="_blank" href="/question/55315729/answer/144118738">编辑于 01:16</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-14346306"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>319 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="18">
+<h2><a class="question_link" href="/question/55099614/answer/144230528" target="_blank" data-id="14259831" data-za-element-name="Title">
+如何达到这种类似油漆交融的效果，PS或是AI?
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53222875"
+data-atoken="144230528"
+data-collapsed="0"
+data-created="1486121759"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/55099614/answer/144230528">
+<meta itemprop="answer-id" content="53222875">
+<meta itemprop="answer-url-token" content="144230528">
+<a class="zg-anchor-hidden" name="answer-53222875"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>182</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">182</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$donkihode"
+target="_blank" href="/people/donkihode"
+>Donkihode</a></span><span title="Freeeeeeesh Don！" class="bio">
+Freeeeeeesh Don！
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="182">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">182</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="14259831" data-action="/answer/content" data-author-name="Donkihode" data-entry-url="/question/55099614/answer/144230528">
+
+<textarea hidden class="content">&lt;img src=&quot;https://pic4.zhimg.com/v2-7c4105b01d27506d0dc23c44a0c73bd7_b.jpg&quot; data-rawwidth=&quot;1000&quot; data-rawheight=&quot;667&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1000&quot; data-original=&quot;https://pic4.zhimg.com/v2-7c4105b01d27506d0dc23c44a0c73bd7_r.jpg&quot;&gt;&lt;p&gt;谢邀，放假回来了，明天就要开工，今晚就来知乎看看有啥有意思的邀请。&lt;/p&gt;&lt;br&gt;&lt;p&gt;题主的图做起来不难的，但我不想做题图那么夸张，所以就做了个程度较轻的版本。&lt;/p&gt;&lt;br&gt;&lt;p&gt;要做得像题图一样更扭曲变形，多加一些扭曲滤镜或者调整参数就好。&lt;/p&gt;&lt;br&gt;&lt;p&gt;首先在PS里新建文件，我选了一个岩石的图片，做这类的图尽量选择这样对比度高错综复杂的素材。&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-962d7d9e0f3deb8fc30add1dcf54ac1c_b.png&quot; data-rawwidth=&quot;1129&quot; data-rawheight=&quot;914&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1129&quot; data-original=&quot;https://pic1.zhimg.com/v2-962d7d9e0f3deb8fc30add1dcf54ac1c_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;接着使用渐变映射，选自己喜欢的就好。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-3eeb2e16e1d1892ff9601fb8d4d57845_b.png&quot; data-rawwidth=&quot;1129&quot; data-rawheight=&quot;914&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1129&quot; data-original=&quot;https://pic2.zhimg.com/v2-3eeb2e16e1d1892ff9601fb8d4d57845_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;接着使用扭曲滤镜里的波浪滤镜，调整参数到自己满意为止。这步看心情，不一定只有一个波浪，你想多加一些扭曲类的滤镜就随便加，跟着感觉走。&lt;/p&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-c1461c5ed528971938bb3cb2f5546777_b.png&quot; data-rawwidth=&quot;1121&quot; data-rawheight=&quot;905&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1121&quot; data-original=&quot;https://pic4.zhimg.com/v2-c1461c5ed528971938bb3cb2f5546777_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;个人觉得做到这样就有感觉了，就没接下去扭曲了，要更扭曲就加大参数或者增加新扭曲滤镜就好。&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/v2-55f14eda5c2f081891df54e77d484d4c_b.png&quot; data-rawwidth=&quot;1129&quot; data-rawheight=&quot;914&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1129&quot; data-original=&quot;https://pic1.zhimg.com/v2-55f14eda5c2f081891df54e77d484d4c_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;最后码上字，齐活儿~&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/v2-30a9071931bff6b7c77cd96072e439ba_b.jpg&quot; data-rawwidth=&quot;1080&quot; data-rawheight=&quot;1920&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1080&quot; data-original=&quot;https://pic3.zhimg.com/v2-30a9071931bff6b7c77cd96072e439ba_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-225f6f433bed08724e8379b538c18639_b.jpg&quot; data-rawwidth=&quot;1080&quot; data-rawheight=&quot;1920&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1080&quot; data-original=&quot;https://pic2.zhimg.com/v2-225f6f433bed08724e8379b538c18639_r.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-917e67b5b9b89b0398427f749f0f3335_b.jpg&quot; data-rawwidth=&quot;1080&quot; data-rawheight=&quot;1920&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1080&quot; data-original=&quot;https://pic2.zhimg.com/v2-917e67b5b9b89b0398427f749f0f3335_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;做这类图啊，就是看心情。&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic4.zhimg.com/v2-7c4105b01d27506d0dc23c44a0c73bd7_200x112.jpg" data-rawwidth="1000" data-rawheight="667" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-7c4105b01d27506d0dc23c44a0c73bd7_r.jpg">
+谢邀，放假回来了，明天就要开工，今晚就来知乎看看有啥有意思的邀请。 题主的图做起来不难的，但我不想做题图那么夸张，所以就做了个程度较轻的版本。 要做得像题图一样更扭曲变形，多加一些扭曲滤镜或者调整参数就好。 首先在PS里新建文件，我选了一个岩…
+
+<a href="/question/55099614/answer/144230528" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 19:35" target="_blank" href="/question/55099614/answer/144230528">编辑于 昨天 19:57</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-14259831"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>19 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="19">
+<h2><a class="question_link" href="/question/46842994/answer/144212196" target="_blank" data-id="10951175" data-za-element-name="Title">
+你写过或听过哪些关于人性的故事？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53215567"
+data-atoken="144212196"
+data-collapsed="0"
+data-created="1486114978"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/46842994/answer/144212196">
+<meta itemprop="answer-id" content="53215567">
+<meta itemprop="answer-url-token" content="144212196">
+<a class="zg-anchor-hidden" name="answer-53215567"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>537</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">537</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$liu-yu-xi-39-34"
+target="_blank" href="/people/liu-yu-xi-39-34"
+>刘钰汐</a></span><span title="学生" class="bio">
+学生
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="537">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">537</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="10951175" data-action="/answer/content" data-author-name="刘钰汐" data-entry-url="/question/46842994/answer/144212196">
+
+<textarea hidden class="content">关于人性 这里不讲故事 只讲最真实的三段经历 不掺半点虚假&lt;br&gt;&lt;br&gt;&lt;br&gt;1.&lt;br&gt;上小学的时候，班主任是一个口碑颇佳的女语文老师，得过无数优秀教师的奖。&lt;br&gt;某日，语文办公室某老师丢失了一部手机。据说期间只有我们班的一个女生B去过该办公室。于是我的班主任一口咬定是B偷的。无凭无据的怀疑可以，但也是因为这无凭无据的怀疑，使该老师趁B不在教室时，彻底搜查B的所有东西，并在我们班大发雷霆。&lt;br&gt;在搜查无果的情况下，她断定B将赃物藏在了我们班其他同学那里，逼问我们，并且在大家不在教室的时候，私自搜查了几个最有可能的同学的个人物品。&lt;br&gt;无果。&lt;br&gt;第二天，偷东西的人确实是我们年级的孩子，但不是B。偷东西的孩子在使用那个手机时被当场抓包。&lt;br&gt;这个事就再没被提起过。&lt;br&gt;没有一个道歉，什么都没有。&lt;br&gt;欺负小孩子不懂事，肆意侵犯小孩子的隐私。这只是很多事情的一个小影子。很多令人发指的事情都是发生在幼儿园和小学里。&lt;br&gt;因为孩子们还不懂事，不懂得保护自己。而一些人便趁此对孩子展示他们人生中的阴暗面。&lt;br&gt;但他们只是孩子啊。&lt;br&gt;&lt;br&gt;2.&lt;br&gt;我的高中某任同桌,是班里的outsider.&lt;br&gt;原因仅仅是因为她是班上最胖的女生。&lt;br&gt;男生都对她敬而远之，后来她的原同桌因为种种原因向老师提出换同桌的申请。&lt;br&gt;后来老师把我叫出去，准备安排我和她同桌，他尴尬的对我说希望我“配合他的工作”。我不明白这有什么，后来宣布换座位的决定，周围的男生向我投来同情的目光，我感觉不妙，说不定别人有意无意的排挤是有原因的。&lt;br&gt;  然而在后来的半年相处中，我发现这个世界有时候的不公平，根本没有道理可讲。她是我见过最心灵手巧和贴心的女孩。她是全班唯一一个花时间用小纸片做DNA分子模型的人，她会给我编各种各样的小辫儿。&lt;br&gt;在独生子女动手能力普遍差的情况下，她会自己烤饼干和蛋糕给我们吃。&lt;br&gt;最令我印象深刻的有两件事。第一是我中午留在学校，她回家，在我将醒未醒时我感觉到她回班，把我滑下肩的衣服重新盖好。&lt;br&gt;二是我被分到六楼考试之后，每次回班都迟了些，她每科都替我拿一张多余的卷子为了日后订正的方便，而那个时候我和她已不是同桌。&lt;br&gt;&lt;br&gt;以貌取人，盲目的给人贴上标签，脸上摘不掉的有色眼镜，这些，都是尚未成年的青少年的所为。&lt;br&gt;&lt;br&gt;3.&lt;br&gt;我外婆育有一子一女，我妈是老大。我舅是老二。&lt;br&gt;我妈从小用功读书，现在工作轻松，收入可观。&lt;br&gt;我舅如今是个货车司机，收入虽然过得去，但十分辛苦。&lt;br&gt;外婆偏爱我舅，而且因为舅一家家庭条件完全不如我们一家，所以常常偏袒我舅。&lt;br&gt;我们整个家庭的重担都在我妈身上，我妈很早就和我爸离异。如今老人的赡养费全是我妈一个人出，而且舅一家因为房子问题，一直住在我们家。&lt;br&gt;&lt;br&gt;十几年前，我妈花了将近二十万买了两套房子。外婆要求一套写他们的（外婆自己）的名字。我妈同意了。&lt;br&gt;十几年后，两套房子面临拆迁。我妈想要房，拗不过外公外婆，最后要了钱。拆得款项大概在180w左右。本来说好均分。&lt;br&gt;我舅拿着其中的110w直接买了一套房。等所有手续结束了，他们一家和我外公外婆才告诉我妈。&lt;br&gt;我妈特别生气，气的不是这钱的问题，是这么多年来，他们从未体谅过自己，这么大的事情都不肯跟她商量。在回家说这件事时候，我外公一巴掌甩在我妈脸上。说我妈不孝。帮着点弟弟怎么了？&lt;br&gt;我舅当天没敢回家，后来打电话，一幅我还给你留了70w已经对你很不错了，是看在你还有个女儿的面子上施舍给你的，你还想怎么样的态度对我妈。我妈心彻底寒了。勒令他们一家马上搬出去。以后和外公，舅一家老死不相往来。&lt;br&gt;至那以后，我再也没见过他们。&lt;br&gt;所谓亲情，血浓于水，在钱面前，不值一文。&lt;br&gt;------------------------&lt;br&gt;很多人对于第三个事情有争议&lt;br&gt;我想说一下我的看法：&lt;br&gt;1.很多人建议我走法律途径：法律途径最终能做的无非是要回钱，但我妈和我并不是在乎这个钱。对于亲情的破裂没有任何好处，还可能撕破脸皮。&lt;br&gt;2.可能是我措辞不当，让大家误会我对亲情全面否定。这里很抱歉。我并没有全盘否定亲情。相反我很爱我的亲人们。&lt;br&gt;3.我想说，我妈做的决定不是什么冷暴力，我妈只是出于保护自己而已。所以请圣母们歇歇，劳烦你们关心了。我很支持我妈的决定。我妈这么多年所做的隐忍退让，坚韧刚强，我都看在眼里。&lt;br&gt;我舅现在的货车都是我妈买的。&lt;br&gt;我舅前几年与人争执，被人打了，殴打中不慎反手将对方刺伤，医药费私了的费用加起来十几万，也是我妈掏的。&lt;br&gt;再次更新：&lt;br&gt;4.我妈妈和樊胜美还是有点不一样的，我妈从没想过靠男人，而且上述两件事情也不是外公外婆逼得，是我妈自愿的，她当时觉得帮衬一下环境不好的弟弟没什么不妥。&lt;br&gt;5.我妈妈自己也承认，前半生就是活的太软弱了，心太软了。后半生我会和她一起坚强的过。&lt;br&gt;谢谢大家关心。真的太暖心了。&lt;br&gt;希望大家都活在一个温暖的家庭里。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+关于人性 这里不讲故事 只讲最真实的三段经历 不掺半点虚假 1. 上小学的时候，班主任是一个口碑颇佳的女语文老师，得过无数优秀教师的奖。 某日，语文办公室某老师丢失了一部手机。据说期间只有我们班的一个女生B去过该办公室。于是我的班主任一口咬定是B偷…
+
+<a href="/question/46842994/answer/144212196" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 17:42" target="_blank" href="/question/46842994/answer/144212196">编辑于 昨天 23:49</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-10951175"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>137 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="20">
+<h2><a class="question_link" href="/question/49511330/answer/144127400" target="_blank" data-id="12021084" data-za-element-name="Title">
+这张「猪笼城寨」怎么调才可以显得通透有质感，我调不好主要是前期还是后期的问题？（提供3张包围RAW）？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="53181648"
+data-atoken="144127400"
+data-collapsed="0"
+data-created="1486085523"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/49511330/answer/144127400">
+<meta itemprop="answer-id" content="53181648">
+<meta itemprop="answer-url-token" content="144127400">
+<a class="zg-anchor-hidden" name="answer-53181648"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>41</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">41</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$jarome-tian"
+target="_blank" href="/people/jarome-tian"
+>Jarome</a></span><span title="医学生/摄影爱好者/其他各种爱好" class="bio">
+医学生/摄影爱好者/其他各种爱好
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="41">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">41</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="12021084" data-action="/answer/content" data-author-name="Jarome" data-entry-url="/question/49511330/answer/144127400">
+
+<textarea hidden class="content">       昨天一个朋友告诉我，我的烂图很荣幸的被知乎网友拿来做例子了~表示受宠若惊啊！很少逛知乎，或许我的回答很难被大家看到，但是既然题主支持了我的拙作，我也理应分享一下自己的心得。&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/v2-541454b4d1182c68b9958336a8c2ca95_b.jpg&quot; data-rawwidth=&quot;2000&quot; data-rawheight=&quot;1325&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2000&quot; data-original=&quot;https://pic2.zhimg.com/v2-541454b4d1182c68b9958336a8c2ca95_r.jpg&quot;&gt;上面这张图就是题主举例的图。&lt;br&gt;       我觉得&lt;b&gt;摄影本质上还是美景美人的搬运工&lt;/b&gt;。。。（当然不是真的把美人搬走咳咳咳）。如果你的拍摄对象不好看，那么花再多的功夫很可能都只是徒劳的。我认为如果非要将整个摄影创作的过程赋予100分的话，前期和后期大概是6:4吧。如果前期是完美的，比如你拍到了水晶天超通透，又有火烧云神马的，抑或是拍到了360度无死角S身材大美女，那么恭喜你，即使你后期根本不处理，那么这张照片至少也是及格的。如果你有高超的后期技术，那么，完美！&lt;br&gt;       但其实我觉得前期后期绝对不是简单的加和。后期处理在我看来有点像是高中里你的优势学科，帮助你往上提总分。或者更直接的，就像各种学科竞赛一样一键通关。即便你语文英语学的不好，但是你数学竞赛拿了全国大奖，那么你也可以报送清北走向人生巅峰，和那些考了700多分的学霸比肩。摄影同样如此。有的人既勤奋又幸运，能力又强，在完美的天气里出现在正确的机位上，后期处理得当，自然出好片，这就是那些700分以上的学霸。但是很多人拍到的也只是一般的天气，大众的机位，但是后期处理得当，或者有出彩的创意，那么很有可能让观众忽略糟糕的前期，而被后期处理的生花妙笔所吸引。&lt;br&gt;       很不幸，题主这三张包围的照片正是不太好的天气里拍到的。也就是说，前期其实并不尽如人意。所谓通透，绝对不是单凭后期处理所能达到的，或者需要大量的后期，很容易弄巧成拙。&lt;b&gt;我的那张图是在一个本身就很通透的天气里拍摄的，并且是顺光，时间接近日落，光比已经很小&lt;/b&gt;。题主的图有几个致命的弱点：&lt;br&gt;1.&lt;b&gt;时间&lt;/b&gt;。已经上午8点，光比很强烈了。&lt;br&gt;2.&lt;b&gt;天气&lt;/b&gt;。这个天气雾气蛮大的，不太适合拍摄。&lt;br&gt;3.&lt;b&gt;逆光&lt;/b&gt;。相比于顺光、侧逆光来说，完全的逆光是最难达到视觉上的通透的。即便是在一个很通透的天气里，逆光拍摄也多少会削弱画面的通透感。&lt;br&gt;&lt;b&gt;时间和天气是最重要的因素&lt;/b&gt;。如果天气好，逆光都不是问题，而且&lt;b&gt;首选逆光拍摄&lt;/b&gt;，使画面里有一个亮点，吸引观众的注意力。&lt;br&gt;       既然前期拍摄已经无法改变，那么本着破罐子破摔的原则，只能通过后期处理来使照片变废为宝。。以下是我处理的图片，也许并不满足题主所要求的通透，但是我觉得这是这张照片相对比较合适的处理方式。大致思路就是&lt;b&gt;加强明暗对比，并且强化逆光感&lt;/b&gt;，给人一种炫目的感觉，&lt;b&gt;吸引视觉注意力&lt;/b&gt;，从而使观众忽略不良天气这个不争的事实。&lt;br&gt;&lt;img src=&quot;https://pic4.zhimg.com/v2-9e9dd7bd77b1f0eb4b39d6f2beeff9af_b.jpg&quot; data-rawwidth=&quot;3000&quot; data-rawheight=&quot;2003&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;3000&quot; data-original=&quot;https://pic4.zhimg.com/v2-9e9dd7bd77b1f0eb4b39d6f2beeff9af_r.jpg&quot;&gt;       这张图的PSD文件上传到我的百度网盘里了，有兴趣的朋友可以下载下来看看，互相交流~我的微信：tianjarome。如果有不懂的可以私信我交流~&lt;br&gt;链接：&lt;a href=&quot;//link.zhihu.com/?target=http%3A//pan.baidu.com/s/1eRWBFVW&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;pan.baidu.com/s/1eRWBFV&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;W&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 密码：o9ta&lt;br&gt;&lt;br&gt;       最后谢谢大家的支持~</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic2.zhimg.com/v2-541454b4d1182c68b9958336a8c2ca95_200x112.jpg" data-rawwidth="2000" data-rawheight="1325" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-541454b4d1182c68b9958336a8c2ca95_r.jpg">
+昨天一个朋友告诉我，我的烂图很荣幸的被知乎网友拿来做例子了~表示受宠若惊啊！很少逛知乎，或许我的回答很难被大家看到，但是既然题主支持了我的拙作，我也理应分享一下自己的心得。 上面这张图就是题主举例的图。 我觉得<b>摄影本质上还是美景美人的搬运工</b>…
+
+<a href="/question/49511330/answer/144127400" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/49511330/answer/144127400">发布于 昨天 09:32</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-12021084"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>3 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
