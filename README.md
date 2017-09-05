@@ -1,6 +1,6 @@
 # ZhihuSpider
 	
-	ZhihuSpider是[鸭哥私房菜]网站后台的爬虫，是基于知乎网的爬虫。
+ZhihuSpider是[鸭哥私房菜](http://www.smimi.net/)网站后台的爬虫，是基于知乎网的爬虫。
 
 ### 主要提供以下功能：
 	{"首页"},
@@ -52,19 +52,42 @@
 	然后再随机抽取10道精华话题来进行推荐，
 	这样的做法，会推荐到最精华的话题，然后又是随机的，保证了无人为参与性。
 
-### 定时发布操作思路：
+### 定时发布操作思路： ###
 	网站前端使用了wordpress框架，能够快速的搭建前端和创建相应数据库表，后台使用crontab定时执行脚本，
 	脚本执行程序，并将打算发表的数据插入到wordpress的文章相关表格中，这样即可在前端看到更新的文章。
+	
+### 网站使用的技术： ###
+    开发语言是c语言，使用curl来爬数据，使用htmlcxx来解析html文件，使用cJson来生成json文件。
+    使用redis来缓存，使用hiredis来处理redis，数据库使用mysql，前端网站使用Wordpress。
 
-### 备注：
+### 注意事项： ###
+	程序依赖的mysql库和爬虫需要的第三方库需要更新为自己系统上的路径，修改Makefile文件中的
+	BYCO_HTML_DIR=/home/byco/ZhihuSpider/ZhihuSpider/zhihu_spider/html_common
+	INCLUDE += -I/usr/local/mysql/include/ -I${BYCO_HTML_DIR} -I/usr/local/include/hiredis
+	LIBS    := -L/usr/local/mysql/lib -lmysqlclient -L/usr/local/lib/ -lhiredis
+ 	
+	安装redis,mysql,hiredis
+	db.conf和db_wp.conf连接数据库名密码改为自己的环境下的
+	redis_op.cpp默认写死redis的ip和端口为"127.0.0.1" ，6379
+
+### 备注： ###
 	由于知乎个人主页信息页结构改动，程序中解析个人主页信息代码有bug，抽空再改。
 
 ### 问题和技术交流QQ:
 	745226897 
 	
 ### 网站地址和截图
-	http://www.smimi.net/
-![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/%E9%A6%96%E9%A1%B5.jpg)
+[鸭哥私房菜网站](http://www.smimi.net/ "http://www.smimi.net/") 
+
+![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/首页.jpg)
+
+![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/话题榜.jpg)
+
+![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/风云榜.jpg)
+
+![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/统计图.jpg)
+
+![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/分布图.jpg)	
 	
 
 	
