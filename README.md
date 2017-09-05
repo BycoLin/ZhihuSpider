@@ -76,8 +76,8 @@ ZhihuSpider是[鸭哥私房菜](http://www.smimi.net/)网站后台的爬虫，�
 ### 问题和技术交流QQ:
 	745226897 
 	
-### 网站地址和截图
-[鸭哥私房菜网站](http://www.smimi.net/ "http://www.smimi.net/") 
+### 网站地址和部分截图： ###
+   [鸭哥私房菜网站](http://www.smimi.net/ "http://www.smimi.net/") 
 
 ![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/首页.jpg)
 
