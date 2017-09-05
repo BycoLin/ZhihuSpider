@@ -64,7 +64,7 @@
 	
 ### 网站地址和截图
 	http://www.smimi.net/
-	![image](https://github.com/BycoLin/ZhihuSpider/blob/master/zhihu_spider/images/index.jpg)
+	![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/index.jpg)
 	
 
 	
