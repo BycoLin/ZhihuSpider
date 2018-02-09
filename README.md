@@ -1,6 +1,6 @@
 # ZhihuSpider
 	
-ZhihuSpider是[鸭哥私房菜](http://www.smimi.net/)网站后台的爬虫，是基于知乎网的爬虫。
+ZhihuSpider是[鸭哥私房菜]网站后台的爬虫，是基于知乎网的爬虫。
 
 ### 主要提供以下功能：
 	{"首页"},
@@ -77,7 +77,7 @@ ZhihuSpider是[鸭哥私房菜](http://www.smimi.net/)网站后台的爬虫，�
 	745226897 
 	
 ### 网站地址和部分截图： ###
-   [鸭哥私房菜网站](http://www.smimi.net/ "http://www.smimi.net/") 
+   [鸭哥私房菜网站于20180209永久关闭]
 
 ![image](https://raw.githubusercontent.com/BycoLin/ZhihuSpider/master/zhihu_spider/images/首页.jpg)
 
