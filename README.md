@@ -73,6 +73,10 @@ ZhihuSpider是[鸭哥私房菜]网站后台的爬虫，是基于知乎网的爬�
 ### 备注： ###
 	由于知乎个人主页信息页结构改动，程序中解析个人主页信息代码有bug，抽空再改。
 
+### DeepWiki： ###
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/BycoLin/ZhihuSpider)
+
 ### 问题和技术交流QQ:
 	745226897 
 	
